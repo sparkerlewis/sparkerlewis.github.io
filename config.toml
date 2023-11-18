@@ -1,0 +1,185 @@
+baseURL = "https://sparkerlewis.github.io/"
+title = "Intérieur Déco"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+paginate = "7"
+theme = "spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+fancyTitle = "Intérieur Déco" # title for frontpage, may include image
+copyright = "Manuela Faisca"
+description = 'toujours une ID en tête ...'
+#startbuttonText = "Activate"
+#startbuttonLink = "#"
+body_is_markdown = true
+#custom_css = "custom_css/custom_style.css"
+#custom_sass = "bar.scss"
+#images = ["images/banner-interieur-deco.jpg"]
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+  [[menu.main]]
+    identifier = "a_propos_de_moi"
+    name = "A propos de moi"
+    url = "/a_propos_de_moi/"
+    weight = 3
+  [[menu.main]]
+      identifier = "qui-suis-je"
+      name = "Qui suis-je ?"
+      url = "/a_propos_de_moi/qui-suis-je"
+      parent = "a_propos_de_moi"
+      weight = 1
+
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/blog/'
+title = "Blog"
+
+#[[params.menu.main]]
+#identifier = "parent"
+#url = '/a_propos_de_moi/'
+#title = "A PROPOS DE MOI"
+
+[[params.menu.main]]
+parent = "parent"
+identifier = "enfant"
+url = '/a_propos_de_moi/qui-suis-je'
+title = "Qui suis-je ?"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Besoin d’aménager votre intérieur ? </br> Un projet de rénovation ? '
+body = ''
+StartbuttonLink = '#'
+StartbuttonText = 'Contactez moi'
+
+#[[params.one.icon]]
+#icon = "fa-gem"
+#style = "1"
+#label = "Lorem"
+#
+#[[params.one.icon]]
+#icon = "fa-heart"
+#style = "2"
+#label = "Ipsum"
+#
+#[[params.one.icon]]
+#icon = "solid fa-code"
+#style = "3"
+#label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "images/ma_mission.jpg"
+img_alt = "blurry background: white/grey"
+title = '''
+<blockquote>
+<p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>
+</blockquote>
+'''
+body = ''
+
+[params.video]
+url = 'https://www.youtube.com/embed/QcKUNv8OBGQ'
+title = 'On parle de Intérieur Déco !'
+body = ''
+
+[params.three]
+enable = true
+title = 'Intérieur Déco, en quelques mots'
+body = ''
+
+[[params.three.feature]]
+icon = "solid fa-person-dress"
+title = ""
+body = "C’est avant tout moi … Manuela !"
+
+[[params.three.feature]]
+icon = "solid fa-ear-listen"
+title = ""
+body = "A votre écoute"
+
+[[params.three.feature]]
+icon = "solid fa-clipboard-list"
+title = ""
+body = "Une prise en compte de vos attentes et envies"
+
+[[params.three.feature]]
+icon = "solid fa-cubes"
+title = ""
+body = "Un projet 100% personnalisé et non un projet parmi tant d’autres"
+
+[[params.three.feature]]
+icon = "solid fa-comments"
+title = ""
+body = "Un travail collaboratif pour faire de cette maison, VOTRE maison"
+
+[[params.three.feature]]
+icon = "solid fa-earth-europe"
+title = ""
+body = "A distance ou à domicile ? Les deux !"
+
+[params.cta]
+enable = true
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = true
+title = "Contactez-moi"
+body = '''
+À distance ou à domicile ? 
+Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution! 
+Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité.
+'''
+phone = "06 74 60 27 06"
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "contact@interieurdeco.fr"
+subject = "Nouvelle demande!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = "https://www.instagram.com/interieurdeco/"
+dribble = ""
+
+# language specific options
+[languages.fr]
+weight = 0
+languageName = "Français"
