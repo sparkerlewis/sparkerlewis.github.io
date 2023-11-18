@@ -1,0 +1,39 @@
+.button.primary {
+    background-color: #ede033;
+    box-shadow: none !important;
+    color: #fff !important;
+}
+
+button.primary:hover,
+.button.primary:hover {
+    background-color: #d7cf94 !important;
+}
+
+.button.primary:active {
+    background-color: #ecd100 !important;
+}
+
+#contactez_moi_txt h2 {
+    color: #3C4858;
+}
+
+#video_manue_txt h2 {
+    color: #3C4858;
+}
+
+#contact_adresse_txt h2 {
+    color: #3C4858;
+}
+
+.features li:before {
+    color: #ffffff;
+}
+
+.wrapper.style3 {
+    background-color: #2E3842;
+    color: #ffffff;
+}
+
+#menu {
+    background: #111922;
+}

@@ -1,0 +1,18 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.one }}
+{{ if .enable }}
+<section id="one" class="wrapper style5 special">
+    <div class="inner" id="contactez_moi_txt">
+        <header class="major">
+            <h2>{{ .title | safeHTML}}</h2>
+
+            {{ partial "body_text.html" (dict "context" . "md" $md) }}
+        </header>
+        <ul class="actions special">
+            <li><a href="{{ .StartbuttonLink }}" class="button primary">{{ .StartbuttonText }}</a></li>
+        </ul>
+    </div>
+</section>
+{{ end }}
+{{ end }}

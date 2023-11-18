@@ -2,15 +2,25 @@
 
 {{ with .Site.Params.contact }}
 {{ if .enable }}
-<section id="contact" class="wrapper style5">
-    <div class="inner">
+<section id="contact_adresse_txt" class="wrapper style5">
+    <div class="inner" id="contact_address">
         <header class="major">
             <h2>{{ .title }}</h2>
-            {{ partial "body_text.html" (dict "context" . "md" $md) }}
+            <!-- {{ partial "body_text.html" (dict "context" . "md" $md) }} -->
+            <p style="font-size: 15px;"><em>À distance ou à domicile ?</em></p>
+
+            <p style="font-size: 15px;"><em>Je suis basée en Métropole Lilloise. Ce n’est pas&nbsp;le cas de votre
+                    projet ? J’ai la solution!</em></br>
+                <em>Par email, au téléphone, en visio : la distance n’est pas un
+                    frein à mon activité.</em>
+            </p>
         </header>
 
-
-
+        <header class="major">
+            <h2>Info</h2>
+            <p class="icon solid fa-phone">&nbsp;&nbsp;06 74 60 27 06</p>
+            <p class="icon solid fa-envelope">&nbsp;&nbsp;contact@interieurdeco.fr</p>
+        </header>
     </div>
 </section>
 {{ end }}
