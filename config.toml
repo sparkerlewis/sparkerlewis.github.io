@@ -15,7 +15,7 @@ description = 'toujours une ID en tête ...'
 body_is_markdown = true
 #custom_css = "custom_css/custom_style.css"
 #custom_sass = "bar.scss"
-#images = ["images/banner-interieur-deco.jpg"]
+#images = ["images/banner.jpg"]
 
 
 [menu]
@@ -183,3 +183,7 @@ dribble = ""
 [languages.fr]
 weight = 0
 languageName = "Français"
+
+[module]
+  [[module.imports]]
+    path = "github.com/gethugothemes/hugo-modules/videos"

@@ -1,0 +1,20 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.video }}
+<section class="wrapper style5 special">
+    <div class="inner">
+        <header class="major">
+            <h2>{{ .title | safeHTML}}</h2>
+
+        </header>
+        <!-- <iframe width="560" height="315" src=" {{ .url }}" frameborder="0" allowfullscreen></iframe> -->
+
+        <!-- {{ partial "video.html" (dict "Src" "https://www.youtube.com/embed/QcKUNv8OBGQ") }} -->
+
+    </div>
+    {{ partial "youtube-lite.html" (dict "Id" "QcKUNv8OBGQ" "Style" "margin: 0 auto; display: block; max-width: 600px;"
+    "Attr" "") }}
+
+
+</section>
+{{ end }}
