@@ -9,37 +9,15 @@ theme = "spectral"
 [params]
 fancyTitle = "Intérieur Déco" # title for frontpage, may include image
 copyright = "Manuela Faisca"
-description = 'toujours une ID en tête ...'
+non_meta_description = "toujours une ID en tête ..."
+# Meta description tres important pour les moteurs de recherche
+description = "Architecte d'intérieur basé sur Lille, je réalise vos projets de décoration"
 #startbuttonText = "Activate"
 #startbuttonLink = "#contact_address"
 body_is_markdown = true
 #custom_css = "custom_css/custom_style.css"
 #custom_sass = "bar.scss"
 #images = ["images/banner.jpg"]
-
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 2
-  [[menu.main]]
-    identifier = "a_propos_de_moi"
-    name = "A propos de moi"
-    url = "/a_propos_de_moi/"
-    weight = 3
-  [[menu.main]]
-      identifier = "qui-suis-je"
-      name = "Qui suis-je ?"
-      url = "/a_propos_de_moi/qui-suis-je"
-      parent = "a_propos_de_moi"
-      weight = 1
 
 
 [[params.menu.main]]
@@ -50,14 +28,7 @@ title = "Home"
 url = '/blog/'
 title = "Blog"
 
-#[[params.menu.main]]
-#identifier = "parent"
-#url = '/a_propos_de_moi/'
-#title = "A PROPOS DE MOI"
-
 [[params.menu.main]]
-parent = "parent"
-identifier = "enfant"
 url = '/a_propos_de_moi/qui-suis-je'
 title = "Qui suis-je ?"
 
@@ -72,21 +43,6 @@ title = 'Besoin d’aménager votre intérieur ? </br> Un projet de rénovation 
 body = ''
 StartbuttonLink = '#contact_address'
 StartbuttonText = 'Contactez moi'
-
-#[[params.one.icon]]
-#icon = "fa-gem"
-#style = "1"
-#label = "Lorem"
-#
-#[[params.one.icon]]
-#icon = "fa-heart"
-#style = "2"
-#label = "Ipsum"
-#
-#[[params.one.icon]]
-#icon = "solid fa-code"
-#style = "3"
-#label = "Dolor"
 
 [params.two]
 enable = true
