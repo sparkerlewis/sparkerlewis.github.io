@@ -25,9 +25,9 @@ image = "/images/background-article.jpg"
 url = '/'
 title = "Home"
 
-[[params.menu.main]]
-url = '/blog/'
-title = "Blog"
+#[[params.menu.main]]
+#url = '/blog/'
+#title = "Blog"
 
 [[params.menu.main]]
 url = '/qui-suis-je'
@@ -39,7 +39,23 @@ title = "Mes adresses déco"
 
 [[params.menu.main]]
 url = '/prestation-particulier'
-title = "Mes prestations et tarifs particuliers"
+title = "Tarifs particuliers"
+
+[[params.menu.main]]
+url = '/prestations-professionnels'
+title = "Tarifs professionnels"
+
+[[params.menu.main]]
+url = '/realisations-particuliers'
+title = "Réalisations particuliers"
+
+[[params.menu.main]]
+url = '/realisations-professionnels'
+title = "Réalisations professionnels"
+
+[[params.menu.main]]
+url = '/contact'
+title = "Contact"
 
 [taxonomies]
     tag = "tags"
@@ -121,7 +137,7 @@ text = "Qui suis-je ?"
 special = true
 
 [[params.cta.link]]
-href = "#"
+href = "/prestation-particulier"
 text = "Prestations"
 special = false
 
