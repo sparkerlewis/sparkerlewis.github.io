@@ -30,7 +30,7 @@ categories:
 
 {{< /img_left >}}
 
-{{< img_right src="/images/mouflette.jpeg" alt="mouflette" >}}
+{{< img_right src="/images/mouflette.jpg" alt="mouflette" >}}
 <h2><strong>Mouflette</strong></h2>
 <p align="justify">Une boutique au cœur du vieux Lille avec des objets de créateurs pleins de poésie. J’adore !</p>
 

@@ -7,8 +7,9 @@ draft: false
 tags:
     - particulier
     - prix
+    - tarif
 categories:
-    - prestations
+    - prestation
 ---
 
 
