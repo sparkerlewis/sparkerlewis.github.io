@@ -37,6 +37,10 @@ title = "Qui suis-je ?"
 url = '/mes-adresses-deco'
 title = "Mes adresses déco"
 
+[[params.menu.main]]
+url = '/prestation-particulier'
+title = "Mes prestations et tarifs particuliers"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
