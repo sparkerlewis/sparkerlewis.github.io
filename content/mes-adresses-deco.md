@@ -12,15 +12,15 @@ categories:
 
 {{< simple_html >}}
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
         <h2><strong>Le village des antiquaires</strong></h2>
         <p align="justify">Situé au cœur d’une ancienne usine, le village des antiquaires regroupe une trentaine de professionnels du secteur. On peut y flâner le dimanche pour trouver des pièces fortes qui donneront du caractère à son intérieur&nbsp;!</p>
         <a href="https://goo.gl/maps/8BG5VjCCbpr8svLr5" target="_blank" rel="noopener"><em>22 avenue du Maréchal de Lattre de Tassigny, Saint-André-lez-Lille</em></a>
     </div>
   </div>
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
       <img style="max-width: 100%;" src="/images/village-antiquaires.jpeg" alt="village-antiquaires">
     </div>
@@ -32,13 +32,13 @@ categories:
 
 {{< simple_html >}}
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
         <img style="max-width: 100%;" src="/images/blue-cargo.jpg" alt="blue-cargo">
     </div>
   </div>
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
         <h2><strong>Blue Cargo</strong></h2>
         <p align="justify">Une adresse essentielle pour le mobilier et les luminaires. On y trouve plusieurs marques: ETHNICRAFT, FATBOY, …</p>
@@ -52,15 +52,15 @@ categories:
 
 {{< simple_html >}}
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
         <h2><strong>Mouflette</strong></h2>
         <p align="justify">Une boutique au cœur du vieux Lille avec des objets de créateurs pleins de poésie. J’adore !</p>
         <a href="https://goo.gl/maps/cFU4A6wtjqQYP8wX8" target="_blank" rel="noopener"><em>41 rue Basse</em><em>, Lille</em></a>
     </div>
   </div>
-  <div style="flex: 1; margin: 10px; max-width: 450px;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
       <img style="max-width: 100%;" src="/images/mouflette.jpg" alt="mouflette" >
     </div>
