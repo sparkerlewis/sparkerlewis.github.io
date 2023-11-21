@@ -7,7 +7,7 @@
     <section class="spotlight">
         {{ if .img }}
         <div class="image">
-            <img src="{{ .img | relURL }}" {{ with .img_alt }}alt="{{ . }}" {{ end }} />
+            <img style="width: 390px; height: 390px; " src="{{ .img | relURL }}" {{ with .img_alt }}alt="{{ . }}" {{ end }} />
         </div>
         {{ end }}
         <div class="content">
