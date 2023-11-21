@@ -11,16 +11,24 @@ categories:
 slug: qui-suis-je
 ---
 
-{{< img_right src="/images/qui-suis-je.jpeg" alt="qui suis-je ?" >}}
 
-<p align="justify">Bienvenue sur mon site Intérieur Déco !</p>
+{{< simple_html >}}
 
-<p align="justify">Ma famille et mes amis sont essentiels. Sans eux, je ne serai pas celle que je suis, ils me soutiennent et m’encouragent dans tous mes projets … MERCI !</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin: 10px; max-width: 450px;">
+    <div>
+        <p align="justify">Bienvenue sur mon site Intérieur Déco !</p>
+        <p align="justify">Ma famille et mes amis sont essentiels. Sans eux, je ne serai pas celle que je suis, ils me soutiennent et m’encouragent dans tous mes projets … MERCI !</p>
+        <p align="justify">A mes yeux, le foyer est au coeur de nos vies pour VIVRE, AIMER, CROIRE et REVER ! Je suis heureuse de vous accompagner dans vos projets intérieurs et d’améliorer ainsi votre cadre de vie. </p>
+        <p align="justify">A très vite, </p>
+        <p align="justify">Manuela</p>
+    </div>
+  </div>
+  <div style="flex: 1; margin: 10px; max-width: 450px;">
+    <div>
+      <img style="max-width: 100%;" src="/images/qui-suis-je.jpeg" alt="qui suis-je ?">
+    </div>
+  </div>
+</div>
 
-<p align="justify">A mes yeux, le foyer est au coeur de nos vies pour VIVRE, AIMER, CROIRE et REVER ! Je suis heureuse de vous accompagner dans vos projets intérieurs et d’améliorer ainsi votre cadre de vie. </p>
-
-<p align="justify">A très vite, </p>
-
-<p align="justify">Manuela</p>
-
-{{< /img_right >}}
+{{< /simple_html >}}

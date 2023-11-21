@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 5%;margin-top: 5%;">
-        <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="width: 200px; height: 200px;">
-    </div>
     <div style="flex: 1;">
         {{ .Inner }}
+    </div>
+    <div style="margin-left: 20px;">
+        <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="width: 350px; height: 350px;">
     </div>
 </div>
