@@ -28,8 +28,9 @@ categories:
 </blockquote>
 
 <div style="text-align: center;">
-  <img src="/images/prestations_professionnelles.jpg" alt="prestations professionnels" style="width: 450px; height: 350px;">
+  <img src="/images/prestations_professionnelles.jpg" alt="prestations professionnels" style="max-width: 70%; height: auto;">
 </div>
+
 
 {{< /simple_html >}}
 
