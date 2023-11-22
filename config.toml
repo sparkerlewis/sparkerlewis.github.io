@@ -25,9 +25,9 @@ image = "/images/background-article.jpg"
 url = '/'
 title = "Home"
 
-#[[params.menu.main]]
-#url = '/blog/'
-#title = "Blog"
+[[params.menu.main]]
+url = '/blog/'
+title = "Blog"
 
 [[params.menu.main]]
 url = '/qui-suis-je'
@@ -74,7 +74,7 @@ enable = true
 
 [[params.two.section]]
 img = "images/ma_mission.jpg"
-img_alt = "blurry background: white/grey"
+img_alt = "Mieux vous comprendre, rencontrons-nous en Métropole Lilloise"
 title = '''
 <blockquote>
 <p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>

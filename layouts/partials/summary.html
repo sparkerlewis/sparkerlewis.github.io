@@ -1,0 +1,24 @@
+<section class="wrapper style5">
+    <div class="inner">
+        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        {{ $permalink := .Permalink }}
+
+        <section class="spotlight" style="background-color: rgba(255,255,255,.15); padding: 0;">
+            {{ with .Params.preview }}
+            <div class="image">
+                <a href="{{ $permalink }}">
+                    <img src="{{ . }}" alt="Aperçu de l'article">
+                </a>
+            </div>
+            {{ end }}
+
+            <div class="content" style="text-align: justify; padding: 0; margin-right: 5%;">
+                <p>{{ .Summary }}</p>
+                {{ if .Truncated }}
+                <a href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
+                {{ end }}
+            </div>
+        </section>
+
+    </div>
+</section>
