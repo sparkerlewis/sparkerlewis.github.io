@@ -21,8 +21,6 @@ categories: []
 
 <img width="288" height="230" src="/images/realisations-particuliers/Une-salle-de-bain-a-lesprit-industriel.png">
 
-<img width="288" height="230" src="/images/realisations-particuliers/amenagement-dun-bureau-pour-deux-dans-la-piece-a-vivre.png">
-
 <img width="288" height="230" src="/images/realisations-particuliers/coup-de-peps-dans-un-salon-salle-a-manger.png">
 
 <img width="288" height="230" src="/images/realisations-particuliers/entree-effet-bois.png">

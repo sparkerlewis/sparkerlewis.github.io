@@ -1,5 +1,5 @@
 .button.primary {
-    background-color: #ede033;
+    background-color: #414244;
     box-shadow: none !important;
     color: #fff !important;
 }
@@ -10,19 +10,19 @@ button.primary:hover,
 }
 
 .button.primary:active {
-    background-color: #ecd100 !important;
+    background-color: #414244 !important;
 }
 
 #contactez_moi_txt h2 {
-    color: #3C4858;
+    color: #6D6354F2;
 }
 
 #video_manue_txt h2 {
-    color: #3C4858;
+    color: #6D6354F2;
 }
 
 #contact_adresse_txt h2 {
-    color: #3C4858;
+    color: #6D6354F2;
 }
 
 .features li:before {
@@ -30,12 +30,13 @@ button.primary:hover,
 }
 
 .wrapper.style3 {
-    background-color: #2E3842;
+    /* background-color: #6D6354; */
+    background-color: #81796a;
     color: #ffffff;
 }
 
 #menu {
-    background: #111922;
+    background: #B2A894;
 }
 
 /* Footer article */
@@ -43,7 +44,8 @@ button.primary:hover,
 /* Landing */
 
 body.landing #footer {
-    background-color: rgba(29, 36, 42);
+    /* background-color: rgba(29, 36, 42); */
+    background-color: #414244;
 }
 
 body.is-mobile.landing #page-wrapper {
@@ -51,9 +53,88 @@ body.is-mobile.landing #page-wrapper {
 }
 
 body.is-mobile.landing #footer {
-    background-color: #1d242a;
+    /* background-color: #1d242a; */
+    background-color: #414244;
 }
 
 /*.cookie-box {
     background-color: #222;
 }*/
+
+#footer .footer_menu {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.8em;
+    letter-spacing: 0.225em;
+    list-style: none;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+#footer .footer_menu li {
+    display: inline-block;
+    line-height: 1em;
+    margin-left: 1em;
+    padding-left: 1em;
+}
+
+#footer .footer_menu li:first-child {
+    border-left: 0;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+#footer .footer_menu li a {
+    color: inherit;
+}
+
+#footer .footer_menu li a:hover {
+    color: #fff;
+}
+
+@media screen and (max-width: 480px) {
+    #footer .footer_menu li {
+        border: 0;
+        display: block;
+        line-height: 1.65em;
+        margin: 0;
+        padding: 0.5em 0;
+    }
+}
+
+body {
+    background: #414244;
+}
+
+/* FONT */
+body,
+input,
+select,
+textarea {
+    /* color: #fff; */
+    /* font-family: ""; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: none;
+}
+
+#banner p {
+    text-transform: none;
+}
+
+.wrapper.style2 {
+    background-color: #dbcfb6;
+}
+
+#banner:after {
+    background: #dbcfb6;
+}
+
+#header {
+    background: #414244;
+}

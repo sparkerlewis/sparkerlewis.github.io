@@ -67,7 +67,7 @@ enable = true
 title = 'Besoin d’aménager votre intérieur ? </br> Un projet de rénovation ? '
 body = ''
 StartbuttonLink = '#contact_address'
-StartbuttonText = 'Contactez moi'
+StartbuttonText = 'Contactez-moi'
 
 [params.two]
 enable = true
@@ -137,8 +137,8 @@ text = "Qui suis-je ?"
 special = true
 
 [[params.cta.link]]
-href = "/prestation-particulier"
-text = "Prestations"
+href = "/realisations-particuliers"
+text = "Réalisations"
 special = false
 
 [params.contact]
@@ -146,7 +146,7 @@ enable = true
 title = "Contactez-moi"
 body = '''
 À distance ou à domicile ? </br>
-Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution! 
+Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
 Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité.
 '''
 phone = "06 74 60 27 06"
