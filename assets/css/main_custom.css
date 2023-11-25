@@ -138,3 +138,13 @@ h6 {
 #header {
     background: #414244;
 }
+
+.termsfeed-com---pc-dialog .cc-cp-body-tabs {
+    min-width: 300px;
+}
+
+@media screen and (max-width: 600px) {
+    .termsfeed-com---nb-simple {
+        max-height: 30%;
+    }
+}
