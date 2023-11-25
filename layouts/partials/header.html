@@ -53,15 +53,16 @@
     <!-- Google analytics -->
     <!-- Google tag (gtag.js) -->
     <script type="text/plain" data-cookie-consent="tracking" async
-        src="https://www.googletagmanager.com/gtag/js?id=G-xxxx"></script>
+        src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.gaTrackingID }}"></script>
     <script type="text/plain" data-cookie-consent="tracking">
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-gtag('config', 'G-xxx');
-</script>
-    <!-- end of Google analytics: NZ8E7W5FX2-->
+        gtag('config', '{{ .Site.Params.gaTrackingID }}');
+    </script>
+
+    <!-- end of Google analytics: -->
     <!-- Page Wrapper -->
     <div id="page-wrapper">
 

@@ -4,7 +4,6 @@ languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
 theme = "spectral"
-#googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
 fancyTitle = "Intérieur Déco" # title for frontpage, may include image
@@ -15,8 +14,8 @@ description = "Architecte d'intérieur basé sur Lille, je transforme votre espa
 #startbuttonText = "Activate"
 #startbuttonLink = "#contact_address"
 body_is_markdown = true
-#image = "/images/background-article.jpg"
 image = "/images/banner-article1.jpg"
+gaTrackingID = "$GA_TRACKING_ID"
 
 
 [[params.menu.main]]
