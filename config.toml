@@ -62,7 +62,7 @@ title = "Contact"
 
 [params.one]
 enable = true
-title = 'Besoin d’aménager votre intérieur ? </br> Un projet de rénovation ? '
+title = 'Besoin d’aménager votre intérieur ?&nbsp;Un projet de rénovation ? '
 body = ''
 StartbuttonLink = '#contact_address'
 StartbuttonText = 'Contactez-moi'
@@ -125,7 +125,7 @@ enable = true
 title = "Architecte d'intérieur et décoratrice à Lille"
 body = '''
 De la conception à la sélection de matériaux, je façonne des intérieurs sur mesure.
-Découvrez comment je peux transformer vos espaces de vies avec créativité, expertise et élégance.
+Découvrez comment je peux transformer vos espaces de vie avec créativité, expertise et élégance.
 '''
 
 

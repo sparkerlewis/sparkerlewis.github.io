@@ -40,8 +40,13 @@ categories:
     </video>
 </center>
 
+
 {{< /simple_html >}}
 
 {{< pricing_particulier >}}
 
-
+{{< simple_html >}}
+ <ul class="actions special" style="margin-top: 10%;">
+     <li><a href="/realisations-particuliers" class="button primary">Réalisations particuliers</a></li>
+ </ul>
+{{< /simple_html >}}

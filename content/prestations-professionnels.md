@@ -34,3 +34,9 @@ categories:
 
 {{< /simple_html >}}
 
+{{< simple_html >}}
+ <ul class="actions special" style="margin-top: 10%;">
+     <li><a href="/realisations-professionnels" class="button primary">Réalisations pro</a></li>
+ </ul>
+{{< /simple_html >}}
+

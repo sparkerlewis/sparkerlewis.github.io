@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 description: ""
 date: 2023-11-20T21:50:35.956Z
 preview: ""

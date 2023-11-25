@@ -18,14 +18,24 @@ categories: []
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <img style="max-width: 100%;" src="/images/realisations-professionnels/bmg.png" alt="BMG">
-      <img style="max-width: 100%;" src="/images/realisations-professionnels/decathlon.png" alt="Decathlon">
+      <a href="/images/realisations-professionnels/bmg.png" data-lightbox="images" data-title="">
+            <img style="max-width: 100%;" src="/images/realisations-professionnels/bmg.png" alt="BMG">
+      </a>
+
+      <a href="/images/realisations-professionnels/decathlon.png" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/decathlon.png" alt="Decathlon">
+      </a>
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <img style="max-width: 100%;" src="/images/realisations-professionnels/quadrifoglio.png" alt="Quadrifoglio">
-      <img style="max-width: 100%;" src="/images/realisations-professionnels/square_habitat.png" alt="Square Habitat">
+      <a href="/images/realisations-professionnels/quadrifoglio.png" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/quadrifoglio.png" alt="Quadrifoglio">
+      </a>
+
+      <a href="/images/realisations-professionnels/square_habitat.png" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/square_habitat.png" alt="Square Habitat">
+      </a>
     </div>
   </div>
 </div>
