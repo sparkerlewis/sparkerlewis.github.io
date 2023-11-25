@@ -15,10 +15,8 @@ description = "Architecte d'intérieur basé sur Lille, je réalise vos projets 
 #startbuttonText = "Activate"
 #startbuttonLink = "#contact_address"
 body_is_markdown = true
-#custom_css = "custom_css/custom_style.css"
-#custom_sass = "bar.scss"
-#images = ["images/banner.jpg"]
-image = "/images/background-article.jpg"
+#image = "/images/background-article.jpg"
+image = "/images/banner-article1.jpg"
 
 
 [[params.menu.main]]

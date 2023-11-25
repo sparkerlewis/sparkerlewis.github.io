@@ -31,9 +31,16 @@
     {{ template "_internal/twitter_cards.html" . }}
     {{ template "_internal/opengraph.html" . }}
     {{ partial "hooks/head-end.html" . }}
+
+    {{ $light := resources.Get "css/lightbox.min.css" | minify | fingerprint "sha512" }}
+    <link rel="stylesheet" href="{{ $light.RelPermalink }}" integrity="{{ $light.Data.Integrity }}">
+
 </head>
 
 <body class="landing is-preload">
+    {{ $light_js := resources.Get "js/lightbox-plus-jquery.js" }}
+    <script src="{{ $light_js.Permalink }}"></script>
+
     <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
     <script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js"
         charset="UTF-8"></script>

@@ -22,7 +22,7 @@ categories:
   </div>
   <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <img style="max-width: 100%;" src="/images/village-antiquaires.jpeg" alt="village-antiquaires">
+      <img style="max-width: 100%;" src="/images/adresses_deco/village-antiquaires.jpeg" alt="village-antiquaires">
     </div>
   </div>
 </div>
@@ -35,7 +35,7 @@ categories:
 <div class="flex-container" style="display: flex; flex-wrap: wrap;">
   <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-        <img style="max-width: 100%;" src="/images/blue-cargo.jpg" alt="blue-cargo">
+        <img style="max-width: 100%;" src="/images/adresses_deco/blue-cargo.jpg" alt="blue-cargo">
     </div>
   </div>
   <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
@@ -62,7 +62,26 @@ categories:
   </div>
   <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <img style="max-width: 100%;" src="/images/mouflette.jpg" alt="mouflette" >
+      <img style="max-width: 100%;" src="/images/adresses_deco/mouflette.jpg" alt="mouflette" >
+    </div>
+  </div>
+</div>
+
+{{< /simple_html >}}
+
+{{< simple_html >}}
+
+<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
+    <div>
+       <img style="max-width: 100%;" src="/images/adresses_deco/slot.jpg" alt="slot">
+    </div>
+  </div>
+  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
+    <div>
+        <h2><strong>Slot</strong></h2>
+        <p align="justify">Ce magasin se mérite car il est assez éloigné de Lille mais il vaut le détour. Tout y est sublime et un peu démesuré. La décoration est typiquement belge: des tonalités neutres, du bois, des matières nobles. Un véritable plaisir pour les yeux</p>
+        <a href="https://goo.gl/maps/gicDpZJib2LudfB69" target="_blank" rel="noopener"><em>Barrière de Fer 20a, Spiere Helkijn, Belgique</em></a>
     </div>
   </div>
 </div>
