@@ -39,7 +39,7 @@ categories:
 
 <div style="text-align: center;">
   <a href="https://maps.google.com/maps?ll=50.601929,3.088904&z=19&hl=en-US&gl=US&mapclient=apiv3&cid=10009223994750912151" target="_blank">
-    <img style="max-width: 50%; height: auto;" src="/images/map.png" alt="mon-adresse">
+    <img style="max-width: 60%; height: auto;" src="/images/map.png" alt="mon-adresse">
   </a>
 </div>
 

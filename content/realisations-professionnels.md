@@ -15,7 +15,7 @@ categories: []
   <p style="text-align: center;">Mon ambition : vous créer une identité visuelle et valoriser l’esprit de vos espaces.</p>
 </blockquote>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
       <a href="/images/realisations-professionnels/bmg.png" data-lightbox="images" data-title="">
@@ -40,4 +40,10 @@ categories: []
   </div>
 </div>
 
+{{< /simple_html >}}
+
+{{< simple_html >}}
+ <ul class="actions special" style="margin-top: 10%;">
+     <li><a href="/contact" class="button primary">Contactez-moi</a></li>
+ </ul>
 {{< /simple_html >}}

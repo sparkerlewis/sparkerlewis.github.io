@@ -11,7 +11,7 @@ fancyTitle = "Intérieur Déco" # title for frontpage, may include image
 copyright = "Manuela Faisca"
 non_meta_description = "toujours une ID en tête ..."
 # Meta description tres important pour les moteurs de recherche
-description = "Architecte d'intérieur basé sur Lille, je réalise vos projets de décoration"
+description = "Architecte d'intérieur basé sur Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget"
 #startbuttonText = "Activate"
 #startbuttonLink = "#contact_address"
 body_is_markdown = true

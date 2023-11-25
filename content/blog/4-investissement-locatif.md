@@ -163,3 +163,18 @@ Ne négligez pas le plan de travail de la cuisine sans oublier le mobilier de la
 </br>
 {{< /simple_html >}}
 <!-- FM:Snippet:End -->
+
+<!-- FM:Snippet:Start data:{"id":"contactez-moi","fields":[]} -->
+{{< simple_html >}}
+</br>
+<div>
+    <h3 style="text-align: center;">
+        Vous avez un projet d’aménagement? </br> Besoin de repenser votre intérieur ?
+    </h3>
+
+	<ul class="actions special" style="margin-top: 5%;">
+		<li><a href="/contact" class="button primary">Contactez-moi</a></li>
+	</ul>
+ </div>
+{{< /simple_html >}}
+<!-- FM:Snippet:End -->

@@ -15,7 +15,7 @@ categories: []
 <p style="text-align: center;">La beauté est dans le regard de celui qui regarde, Oscar Wilde</p>
 </blockquote>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
         <a href="/images/realisations-particuliers/Grande-piece-a-vivre-dans-un-loft.png" data-lightbox="images" data-title="">
@@ -91,4 +91,10 @@ categories: []
 </div>
 
 
+{{< /simple_html >}}
+
+{{< simple_html >}}
+ <ul class="actions special" style="margin-top: 10%;">
+     <li><a href="/contact" class="button primary">Contactez-moi</a></li>
+ </ul>
 {{< /simple_html >}}
