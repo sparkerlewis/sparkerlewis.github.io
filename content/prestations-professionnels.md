@@ -14,12 +14,12 @@ categories:
 
 {{< simple_html >}}
 <div>
-<p>Mon accompagnement pour vos locaux professionnels est un processus complet visant à créer des espaces <span
+<p align="justify">Mon accompagnement pour vos locaux professionnels est un processus complet visant à créer des espaces <span
     style="font-weight: bold;">fonctionnels</span>, <span style="font-weight: bold;">esthétiques</span> et <span
     style="font-weight: bold;">adaptés aux besoins spécifiques de VOTRE entreprise</span>.</p>
-<p>Pour concevoir votre projet, je suis à l’écoute de VOS besoins sans oublier l’importance de&nbsp; bien comprendre
+<p align="justify">Pour concevoir votre projet, je suis à l’écoute de VOS besoins sans oublier l’importance de&nbsp; bien comprendre
   l’activité de votre entreprise, votre culture, vos objectifs ainsi que les contraintes budgétaires et temporelles.</p>
-<p>Je vous accompagne en <span style="font-weight: bold;">mission partielle ou complète</span> : rendus 3D, sélection
+<p align="justify">Je vous accompagne en <span style="font-weight: bold;">mission partielle ou complète</span> : rendus 3D, sélection
   des matériaux / des couleurs / du mobilier, suivi esthétique des travaux, c’est vous qui choisissez en fonction de votre besoin.</p>
 </div>
 

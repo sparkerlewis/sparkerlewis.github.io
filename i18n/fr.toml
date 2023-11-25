@@ -26,7 +26,7 @@ other = "envoyer"
 other = "reset"
 
 [allarticles]
-other = "tous les articles"
+other = "BLOG"
 
 [readmore]
 other = "Lire plus…"

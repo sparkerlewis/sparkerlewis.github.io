@@ -35,9 +35,8 @@ categories:
 {{< simple_html >}}
 
   <center>
-    <video controls style="width: 60%; height: auto;">
+    <video controls style="width: 60%; height: auto;" poster="/images/vignette_video.png">
         <source src="/videos/Mes-Prestations.mp4" type="video/mp4">
-        Votre navigateur ne prend pas en charge la balise vidéo.
     </video>
 </center>
 

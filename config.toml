@@ -26,10 +26,6 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/blog/'
-title = "Blog"
-
-[[params.menu.main]]
 url = '/qui-suis-je'
 title = "Qui suis-je ?"
 
@@ -52,6 +48,10 @@ title = "Prestations pro"
 [[params.menu.main]]
 url = '/realisations-professionnels'
 title = "Réalisations pro"
+
+[[params.menu.main]]
+url = '/blog/'
+title = "Blog"
 
 [[params.menu.main]]
 url = '/contact'
