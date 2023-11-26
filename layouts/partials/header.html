@@ -35,11 +35,23 @@
     {{ $light := resources.Get "css/lightbox.min.css" | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $light.RelPermalink }}" integrity="{{ $light.Data.Integrity }}">
 
-    <link rel="canonical" href="https://interieurdeco.fr/">
+    <link rel="canonical" href="https://interieurdeco.fr">
     <meta name="keywords"
         content="rénovation Lille, architecte d'intérieur Lille, conception d'espace Hauts-de-France, design d'intérieur Nord">
 
-    <!-- <meta name="google-site-verification" content="mihzgF6fxOxsNdwBrwjgPZAq0jzKlvrLp1zJIyv68d0"> -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
+    <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon/favicon.ico">
+
+    <meta property="og:image" content="https://interieurdeco.fr/images/logo.jpg">
+    <meta property="og:description"
+        content="Architecte d'intérieur basé sur Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget">
+    <meta property="og:url" content="https://interieurdeco.fr">
+
+
 </head>
 
 <body class="landing is-preload">
@@ -58,13 +70,13 @@
     <!-- Google analytics -->
     <!-- Google tag (gtag.js) -->
     <script type="text/plain" data-cookie-consent="tracking" async
-        src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.gaTrackingID }}"></script>
+        src="https://www.googletagmanager.com/gtag/js?id=G-NZ8E7W5FX2"></script>
     <script type="text/plain" data-cookie-consent="tracking">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', '{{ .Site.Params.gaTrackingID }}');
+        gtag('config', 'G-NZ8E7W5FX2');
     </script>
 
     <!-- end of Google analytics: -->
