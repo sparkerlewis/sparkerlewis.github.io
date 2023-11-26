@@ -1,4 +1,4 @@
-baseURL = "https://sparkerlewis.github.io/"
+baseURL = "https://interieurdeco.fr/"
 title = "Intérieur Déco"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
@@ -15,8 +15,6 @@ description = "Architecte d'intérieur basé sur Lille, je transforme votre espa
 #startbuttonLink = "#contact_address"
 body_is_markdown = true
 image = "/images/banner-article1.jpg"
-gaTrackingID = "$GA_TRACKING_ID"
-
 
 [[params.menu.main]]
 url = '/'
