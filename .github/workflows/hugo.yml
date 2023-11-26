@@ -75,4 +75,4 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
            # ${{ secrets.GA_TRACKING_ID }}
-           GA_TRACKING_ID: "TOTO"
+           HUGO_PARAMS_GA_TRACKING_ID: "TOTO"
