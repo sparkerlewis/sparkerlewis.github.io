@@ -73,6 +73,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
+        env:
            # ${{ secrets.GA_TRACKING_ID }}
-           HUGO_PARAMS_GA_TRACKING_ID: "TOTO"
+           GA_TRACKING_ID: "TOTO"
