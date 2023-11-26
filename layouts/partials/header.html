@@ -35,6 +35,11 @@
     {{ $light := resources.Get "css/lightbox.min.css" | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $light.RelPermalink }}" integrity="{{ $light.Data.Integrity }}">
 
+    <link rel="canonical" href="https://interieurdeco.fr/">
+    <meta name="keywords"
+        content="rénovation Lille, architecte d'intérieur Lille, conception d'espace Hauts-de-France, design d'intérieur Nord">
+
+    <!-- <meta name="google-site-verification" content="mihzgF6fxOxsNdwBrwjgPZAq0jzKlvrLp1zJIyv68d0"> -->
 </head>
 
 <body class="landing is-preload">

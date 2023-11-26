@@ -93,7 +93,7 @@ categories:
 
 <div>
     <h2 style="text-align: center;">
-        1. Côté décoration
+        3. Côté décoration
     </h2>
 </div>
 
