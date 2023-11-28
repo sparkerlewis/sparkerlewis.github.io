@@ -56,7 +56,7 @@
 
 <body class="landing is-preload">
     {{ $light_js := resources.Get "js/lightbox-plus-jquery.js" }}
-    <script src="{{ $light_js.Permalink }}"></script>
+    <script src="{{ $light_js.Permalink }}" async></script>
 
     <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
     <script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js"
