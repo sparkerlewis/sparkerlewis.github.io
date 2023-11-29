@@ -17,76 +17,53 @@ categories: []
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-        <a href="/images/realisations-particuliers/Grande-piece-a-vivre-dans-un-loft.png" data-lightbox="images" data-title="">
-            <img src="/images/realisations-particuliers/Grande-piece-a-vivre-dans-un-loft.png" alt="" width="288" height="230">
+        <a href="/images/realisations-particuliers/amenagement chambre amis bureau.jpeg" data-lightbox="images" data-title="amenagement chambre amis bureau">
+            <img src="/images/realisations-particuliers/amenagement chambre amis bureau.jpeg" alt="amenagement chambre amis bureau" width="388" height="330">
         </a></br></br>
         
-        <a href="/images/realisations-particuliers/coup-de-peps-dans-un-salon-salle-a-manger.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/coup-de-peps-dans-un-salon-salle-a-manger.png">
+        <a href="/images/realisations-particuliers/amenagement decoration salon salle a manger terracota chaleureux.jpeg" data-lightbox="images" data-title="amenagement decoration salon salle a manger terracota chaleureux">
+            <img width="388" height="330" src="/images/realisations-particuliers/amenagement decoration salon salle a manger terracota chaleureux.jpeg" alt="amenagement decoration salon salle a manger terracota chaleureux">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/entree-effet-bois.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/entree-effet-bois.png">
+        <a href="/images/realisations-particuliers/bureau sur mesure claustra bois.jpeg" data-lightbox="images" data-title="bureau sur mesure claustra bois">
+            <img  width="388" height="330" src="/images/realisations-particuliers/bureau sur mesure claustra bois.jpeg" alt="bureau sur mesure claustra bois">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/entree-maison.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/entree-maison.png">
+        <a href="/images/realisations-particuliers/conseil couleur entrée vert green smoke.jpeg" data-lightbox="images" data-title="conseil couleur entrée vert green smoke">
+            <img  width="388" height="330" src="/images/realisations-particuliers/conseil couleur entrée vert green smoke.jpeg" alt="conseil couleur entrée vert green smoke">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/espace%20bureau%20sur%20mesure%20avec%20claustra%20bois.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/espace%20bureau%20sur%20mesure%20avec%20claustra%20bois.png">
+        <a href="/images/realisations-particuliers/couleur effet boite entree.jpeg" data-lightbox="images" data-title="couleur effet boite entree">
+            <img  width="388" height="330" src="/images/realisations-particuliers/couleur effet boite entree.jpeg" alt="couleur effet boite entree">
         </a></br></br>
 
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-        <a href="/images/realisations-particuliers/Une-cuisine-contemporaine-fonctionnelle-et-lumineuse.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/Une-cuisine-contemporaine-fonctionnelle-et-lumineuse.png">
+        <a href="/images/realisations-particuliers/decoration cosy chambre parentale jielde gris ocre jaune.jpeg" data-lightbox="images" data-title="decoration cosy chambre parentale jielde gris ocre jaune">
+            <img  width="388" height="330" src="/images/realisations-particuliers/decoration cosy chambre parentale jielde gris ocre jaune.jpeg" alt="decoration cosy chambre parentale jielde gris ocre jaune">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/salle-de-bain-douce-et-apaisante.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/salle-de-bain-douce-et-apaisante.png">
+        <a href="/images/realisations-particuliers/renovation cuisine blanc vert bois.jpeg" data-lightbox="images" data-title="renovation cuisine blanc vert bois">
+            <img  width="388" height="330" src="/images/realisations-particuliers/renovation cuisine blanc vert bois.jpeg" alt="renovation cuisine blanc vert bois">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/salle-de-bain.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/salle-de-bain.png">
+        <a href="/images/realisations-particuliers/renovation salle de bain industrielle carreaux de ciment.jpeg" data-lightbox="images" data-title="renovation salle de bain industrielle carreaux de ciment">
+            <img  width="388" height="330" src="/images/realisations-particuliers/renovation salle de bain industrielle carreaux de ciment.jpeg" alt="renovation salle de bain industrielle carreaux de ciment">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/salon%20meuble%20sur%20mesure%20balnc%20et%20bois.png" data-lightbox="images" data-title="">
-            <img  width="288" height="230" src="/images/realisations-particuliers/salon%20meuble%20sur%20mesure%20balnc%20et%20bois.png">
+        <a href="/images/realisations-particuliers/salle a manger conviviale escalier.jpeg" data-lightbox="images" data-title="salle a manger conviviale escalier">
+            <img  width="388" height="330" src="/images/realisations-particuliers/salle a manger conviviale escalier.jpeg" alt="salle a manger conviviale escalier">
         </a></br></br>
 
-        <a href="/images/realisations-particuliers/salon%20vert%20cosy%20contemporain.png" data-lightbox="images" data-title="">
-             <img  width="288" height="230" src="/images/realisations-particuliers/salon%20vert%20cosy%20contemporain.png">
+        <a href="/images/realisations-particuliers/salle de bain zellige vert d'eau elegante.jpeg" data-lightbox="images" data-title="salle de bain zellige vert d'eau elegante">
+             <img  width="388" height="330" src="/images/realisations-particuliers/salle de bain zellige vert d'eau elegante.jpeg" alt="salle de bain zellige vert d'eau elegante">
         </a></br></br>
        
     </div>
   </div>
-   <div style="flex: 1; margin: 10px; max-width: 450px;">
-    <div>
-         <a href="/images/realisations-particuliers/Une-salle-de-bain-a-lesprit-industriel.png" data-lightbox="images" data-title="">
-             <img  width="288" height="230" src="/images/realisations-particuliers/Une-salle-de-bain-a-lesprit-industriel.png">
-        </a></br></br>
 
-        <a href="/images/realisations-particuliers/sam%20courapied.png" data-lightbox="images" data-title="">
-             <img  width="288" height="230" src="/images/realisations-particuliers/sam%20courapied.png">
-        </a></br></br>
-
-        <a href="/images/realisations-particuliers/espace-bureau-pour-accueillir-chez-soi-son-equipe-et-des-exterieurs.png" data-lightbox="images" data-title="">
-              <img  width="288" height="230" src="/images/realisations-particuliers/espace-bureau-pour-accueillir-chez-soi-son-equipe-et-des-exterieurs.png">
-        </a></br></br>
-
-        <a href="/images/realisations-particuliers/maison-familiale.png" data-lightbox="images" data-title="">
-             <img  width="288" height="230" src="/images/realisations-particuliers/maison-familiale.png">
-        </a></br></br>
-
-        <a href="/images/realisations-particuliers/piece_de_vie.png" data-lightbox="images" data-title="">
-             <img  width="288" height="230" src="/images/realisations-particuliers/piece_de_vie.png">
-        </a></br></br>
-        
-    </div>
-  </div>
 </div>
 
 

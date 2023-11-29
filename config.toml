@@ -68,7 +68,7 @@ StartbuttonText = 'Contactez-moi'
 enable = true
 
 [[params.two.section]]
-img = "images/ma_mission.jpg"
+img = "images/ma_mission.webp"
 img_alt = "Architecte d’intérieur et décoratrice vous accompagne pour aménager votre espace, rénover votre lieu de vie, vous conseiller pour les couleurs et définir le choix des matériaux"
 title = '''
 <blockquote>
