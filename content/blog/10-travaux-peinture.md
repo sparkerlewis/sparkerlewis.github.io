@@ -1,7 +1,7 @@
 ---
 title: Réussir vos Travaux de Peinture
 description: ""
-date: 2023-11-13T14:35:55.119Z
+date: 2024-02-28T14:35:55.119Z
 preview: /images/blog/article10/1-peinture.webp
 draft: false
 tags:
