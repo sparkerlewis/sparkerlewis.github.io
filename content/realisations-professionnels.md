@@ -18,23 +18,23 @@ categories: []
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <a href="/images/realisations-professionnels/bmg.png" data-lightbox="images" data-title="">
-            <img style="max-width: 100%;" src="/images/realisations-professionnels/bmg.png" alt="BMG">
+      <a href="/images/realisations-professionnels/bmg.webp" data-lightbox="images" data-title="">
+            <img style="max-width: 100%;" src="/images/realisations-professionnels/bmg.webp" alt="BMG">
       </a>
 
-      <a href="/images/realisations-professionnels/decathlon.png" data-lightbox="images" data-title="">
-          <img style="max-width: 100%;" src="/images/realisations-professionnels/decathlon.png" alt="Decathlon">
+      <a href="/images/realisations-professionnels/decathlon.webp" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/decathlon.webp" alt="Decathlon">
       </a>
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-      <a href="/images/realisations-professionnels/quadrifoglio.png" data-lightbox="images" data-title="">
-          <img style="max-width: 100%;" src="/images/realisations-professionnels/quadrifoglio.png" alt="Quadrifoglio">
+      <a href="/images/realisations-professionnels/quadrifoglio.webp" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/quadrifoglio.webp" alt="Quadrifoglio">
       </a>
 
-      <a href="/images/realisations-professionnels/square_habitat.png" data-lightbox="images" data-title="">
-          <img style="max-width: 100%;" src="/images/realisations-professionnels/square_habitat.png" alt="Square Habitat">
+      <a href="/images/realisations-professionnels/square_habitat.webp" data-lightbox="images" data-title="">
+          <img style="max-width: 100%;" src="/images/realisations-professionnels/square_habitat.webp" alt="Square Habitat">
       </a>
     </div>
   </div>

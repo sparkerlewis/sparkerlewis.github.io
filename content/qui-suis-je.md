@@ -26,7 +26,7 @@ slug: qui-suis-je
   </div>
   <div class="flex-item">
     <div>
-      <img src="/images/qui-suis-je.jpeg" alt="qui suis-je ?">
+      <img src="/images/qui-suis-je.webp" alt="qui suis-je ?">
     </div>
   </div>
 </div>
