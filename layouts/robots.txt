@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+
+Sitemap: {{ "https://interieurdeco.fr/sitemap.xml" | absURL }}

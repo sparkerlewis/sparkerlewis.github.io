@@ -4,6 +4,7 @@ languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
 theme = "spectral"
+enableRobotsTXT = true
 
 [params]
 fancyTitle = "Intérieur Déco" # title for frontpage, may include image
