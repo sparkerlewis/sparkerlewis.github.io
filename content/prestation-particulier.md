@@ -1,5 +1,5 @@
 ---
-title: "Aménagement d’intérieur sur mesure Lille (Nord) : Optimisez vos espaces avec style"
+title: "Prestations pour particuliers"
 description: ""
 date: 2023-11-20T13:03:30.816Z
 preview: ""
