@@ -37,7 +37,7 @@ Add On config.toml:
 ```
 
 ###### delete module :
-Si vous souhaitez supprimer un module, vous pouvez utiliser la commande hugo mod tidy. Cela supprimera les modules non utilisés et les dépendances inutilisées.
+Si vous souhaiter supprimer un module, vous pouvez utiliser la commande hugo mod tidy. Cela supprimera les modules non utilisés et les dépendances inutilisées.
 
 `hugo mod tidy`
 
