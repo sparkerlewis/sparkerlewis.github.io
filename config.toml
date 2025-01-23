@@ -1,5 +1,5 @@
 baseURL = "https://interieurdeco.fr/"
-title = "Intérieur Déco"
+title = "Architecte, designer et décoratrice d’intérieur Lille : Conseil professionnel en décoration d’intérieur dans le Nord"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
@@ -70,7 +70,7 @@ enable = true
 
 [[params.two.section]]
 img = "images/ma_mission.webp"
-img_alt = "Architecte d’intérieur et décoratrice vous accompagne pour aménager votre espace, rénover votre lieu de vie, vous conseiller pour les couleurs et définir le choix des matériaux"
+img_alt = "architecte d’intérieur lille"
 title = '''
 <blockquote>
 <p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>
