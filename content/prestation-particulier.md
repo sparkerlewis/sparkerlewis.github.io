@@ -1,5 +1,6 @@
 ---
-title: "Prestations pour particuliers"
+title: "Aménagement d’intérieur sur mesure Lille (Nord) : Tarif décoratrice d’intérieur pour rénovation dans le Nord"
+titleH2: "Prestations pour particuliers"
 description: ""
 date: 2023-11-20T13:03:30.816Z
 preview: ""
