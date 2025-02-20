@@ -61,7 +61,7 @@ title = "Contact"
 [params.one]
 enable = true
 title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? Un projet de rénovation ? '
-body = 'test'
+body = 'Vous rêvez d’un intérieur harmonieux, élégant et à votre image ? Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, que vous soyez un particulier ou un professionnel. Je crée des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
 StartbuttonLink = '#contact_address'
 StartbuttonText = 'Contactez-moi'
 
@@ -76,7 +76,8 @@ title = '''
 <p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>
 </blockquote>
 '''
-body = 'test'
+body = 'Chaque projet est une alliance entre esthétisme et fonctionnalité. Je vous offre conseil en décoration sur-mesure, en tenant compte de votre budget et des tendances actuelles. Que ce soit pour un appartement, une maison, un bureau ou un commerce, je mets ma créativité et mon expertise au service de votre projet. 
+En tant que décoratrice d'intérieur basée à Lille, j’interviens dans tout le Nord, mais aussi à distance pour vous accompagner où que vous soyez.'
 
 [params.video]
 url = 'https://www.youtube.com/embed/QcKUNv8OBGQ'
@@ -143,8 +144,8 @@ title = "Contactez-moi"
 body = '''
 À distance ou à domicile ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
-Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité.<br>
-Découvrez dès maintenant mes prestations et <a href="https://interieurdeco.fr/prestation-particulier/"<span style = "color : ##766C5E;"> <U>tarif décoratrice d’intérieur</U></a> adaptés à votre projet et à votre budget.<br>
+Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité.
+Découvrez dès maintenant mes prestations et <a href="https://interieurdeco.fr/prestation-particulier/"><span style = "color : ##766C5E;"> <U>tarif décoratrice d’intérieur</U></span></a> adaptés à votre projet et à votre budget.
 Contactez-moi pour en savoir plus et pour toute demande de devis.
 '''
 phone = "06 74 60 27 06"
