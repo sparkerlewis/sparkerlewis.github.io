@@ -76,8 +76,7 @@ title = '''
 <p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>
 </blockquote>
 '''
-body = 'Chaque projet est une alliance entre esthétisme et fonctionnalité. Je vous offre conseil en décoration sur-mesure, en tenant compte de votre budget et des tendances actuelles. Que ce soit pour un appartement, une maison, un bureau ou un commerce, je mets ma créativité et mon expertise au service de votre projet. 
-En tant que décoratrice d'intérieur basée à Lille, j’interviens dans tout le Nord, mais aussi à distance pour vous accompagner où que vous soyez.'
+body = 'Chaque projet est une alliance entre esthétisme et fonctionnalité. Je vous offre conseil en décoration sur-mesure, en tenant compte de votre budget et des tendances actuelles. Que ce soit pour un appartement, une maison, un bureau ou un commerce, je mets ma créativité et mon expertise au service de votre projet. En tant que décoratrice d intérieur basée à Lille, j’interviens dans tout le Nord, mais aussi à distance pour vous accompagner où que vous soyez.'
 '''
 
 [params.video]
