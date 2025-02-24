@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [params]
 fancyTitle = "Intérieur Déco" # title for frontpage, may include image
 copyright = "Manuela Faisca"
-non_meta_description = "Manuela Faisca, ARCHITECTE D’INTÉRIEUR & DÉCORATION"
+non_meta_description = "Manuela Faisca, ARCHITECTE D’INTÉRIEUR & DÉCORATRICE"
 # Meta description tres important pour les moteurs de recherche
 description = "Architecte d'intérieur basé sur Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget"
 #startbuttonText = "Activate"
@@ -61,7 +61,7 @@ title = "Contact"
 [params.one]
 enable = true
 title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? Un projet de rénovation ? '
-body = 'Vous rêvez d’un intérieur harmonieux, élégant et à votre image ? Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, que vous soyez un particulier ou un professionnel. Je crée des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
+body = 'Vous rêvez d’un intérieur harmonieux, élégant et à votre image ? Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, que vous soyez un particulier ou un professionnel. Manuela Faisca crée des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
 StartbuttonLink = '#contact_address'
 StartbuttonText = 'Contactez-moi'
 
@@ -76,7 +76,7 @@ title = '''
 <p><em>«&nbsp;Ma mission est de comprendre vos envies, de vous proposer une réalisation sur mesure et ainsi créer un lieu unique.&nbsp;»</em></p>
 </blockquote>
 '''
-body = 'Chaque projet est une alliance entre esthétisme et fonctionnalité. Je vous offre conseil en décoration sur-mesure, en tenant compte de votre budget et des tendances actuelles. Que ce soit pour un appartement, une maison, un bureau ou un commerce, je mets ma créativité et mon expertise au service de votre projet. En tant que décoratrice d intérieur basée à Lille, j’interviens dans tout le Nord, mais aussi à distance pour vous accompagner où que vous soyez.'
+body = 'Chaque projet est une alliance entre esthétisme et fonctionnalité. Je vous offre des conseils en décoration sur-mesure, en tenant compte de votre budget et des tendances actuelles. Que ce soit pour un appartement, une maison, un bureau ou un commerce, je mets ma créativité et mon expertise au service de votre projet. En tant que décoratrice d intérieur basée à Lille, j’interviens dans tout le Nord, mais aussi à distance pour vous accompagner où que vous soyez.'
 
 
 [params.video]
@@ -123,7 +123,7 @@ body = "A distance ou à domicile ? Les deux !"
 enable = true
 title = "Architecte et décoratrice d'intérieur à Lille dans le Nord"
 body = '''
-Chaque espace mérite une décoration qui lui ressemble et qui reflète la personnalité de ceux qui l’habitent. En tant que designer d’intérieur à Lille, je mets ma créativité et mon expertise au service de votre projet pour façonner et transformer votre intérieur en un lieu unique, fonctionnel et élégant.<br>
+Chaque espace mérite une décoration qui lui ressemble et qui reflète la personnalité de ceux qui l’habitent. En tant que designer d’intérieur à Lille, je façonne et transforme votre intérieur en un lieu unique, fonctionnel, élégant et avec une véritable identité.<br>
 Découvrez comment je peux transformer vos espaces de la conception à la sélection des matériaux.
 '''
 
