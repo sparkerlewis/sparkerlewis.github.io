@@ -41,7 +41,7 @@ categories:
         <source src="/videos/Mes-Prestations.mp4" type="video/mp4">
     </video>
 </center>
-
+<br>
 <center>
 <h2>Tarif de votre décoratrice d’intérieur à Lille et dans le Nord</h2>
 </center>
