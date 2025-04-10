@@ -42,7 +42,10 @@ categories:
     </video>
 </center>
 
-
+<center>
+<h2>Tarif de votre décoratrice d’intérieur à Lille et dans le Nord</h2>
+</center>
+    
 {{< /simple_html >}}
 
 {{< pricing_particulier >}}
