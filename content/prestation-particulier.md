@@ -1,6 +1,7 @@
 ---
 title: "Aménagement d’intérieur sur mesure Lille (Nord) : Tarif décoratrice d’intérieur pour rénovation dans le Nord"
 titleH2: "Prestations pour particuliers"
+titleH3: "Aménagement d’intérieur sur mesure à Lille"
 description: ""
 date: 2023-11-20T13:03:30.816Z
 preview: ""
@@ -19,10 +20,10 @@ categories:
 
   <div>
     <div>
-        <p align="justify">Vous faites construire, vous déménagez, vous rénovez ou agrandissez&nbsp;? Je vous accompagne dans votre projet en tenant compte de vos habitudes et de vos envies.</p>
+        <p align="justify">Vous faites construire, vous déménagez, vous rénovez ou agrandissez ? Vous cherchez un accompagnement professionnel pour repenser votre espace ? Je vous propose des solutions d’aménagement d’intérieur sur mesure, adaptées à vos besoins, vos envies, vos habitudes et votre mode de vie.</p>
 
         <p align="justify">
-        Afin de répondre aux différentes envies et budgets de chacun, j’établis votre devis sur mesure en fonction de vos besoins.
+        Spécialisée en aménagement d’intérieur à Lille et dans le Nord, je vous guide dans chaque étape de votre projet. Que ce soit pour une pièce à transformer ou un intérieur complet à repenser, j’imagine avec vous un univers à votre image, harmonieux, fonctionnel et esthétique.
         </p>
 
         <p align="justify">
