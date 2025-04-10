@@ -1,6 +1,7 @@
 ---
 title: "Aménagement d’intérieur sur mesure Lille (Nord) : Tarif décoratrice d’intérieur pour rénovation dans le Nord"
-titleH2: "Prestations pour particuliers<br>Aménagement d’intérieur sur mesure à Lille"
+titleH2: "Prestations pour particuliers
+Aménagement d’intérieur sur mesure à Lille"
 description: ""
 date: 2023-11-20T13:03:30.816Z
 preview: ""
