@@ -61,8 +61,8 @@ title = "Contact"
 [params.one]
 enable = true
 title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? Un projet de rénovation ? '
-body = 'Vous rêvez d’un intérieur harmonieux, élégant et à votre image ? Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, que vous soyez un particulier ou un professionnel. Manuela Faisca crée des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
-StartbuttonLink = '#contact_address'
+body = 'Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, sans oublier de vous créer des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
+StartbuttonLink = 'mailto:contact@interieurdeco.fr'
 StartbuttonText = 'Contactez-moi'
 
 [params.two]

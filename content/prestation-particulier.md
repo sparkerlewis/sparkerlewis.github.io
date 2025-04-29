@@ -18,7 +18,7 @@ categories:
 {{< simple_html >}}
 
   <div>
-    <div>
+    <div id="private_service">
         <h2>Aménagement d’intérieur sur mesure à Lille</h2>
         <p align="justify">Vous faites construire, vous déménagez, vous rénovez ou agrandissez ? Vous cherchez un accompagnement professionnel pour repenser votre espace ? Je vous propose des solutions d’aménagement d’intérieur sur mesure, adaptées à vos besoins, vos envies, vos habitudes et votre mode de vie.</p>
 
@@ -42,9 +42,10 @@ categories:
     </video>
 </center>
 <br>
-<center>
-<h2>Tarif de votre décoratrice d’intérieur à Lille et dans le Nord</h2>
-</center>
+<br>
+<div id="private_service_prices">
+    <h2>Tarifs de votre décoratrice d’intérieur à Lille et dans le Nord</h2>
+</div>
     
 {{< /simple_html >}}
 

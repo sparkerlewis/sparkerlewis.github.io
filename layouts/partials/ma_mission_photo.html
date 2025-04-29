@@ -12,6 +12,7 @@
         {{ end }}
         <div class="content">
             <p>{{ .title | safeHTML }}</p>
+            <h2>Optimiser, aménager et décorer</h2>
             {{ partial "body_text.html" (dict "context" . "md" $md) }}
         </div>
     </section>

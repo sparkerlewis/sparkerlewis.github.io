@@ -25,19 +25,15 @@ categories: []
       <a href="/images/realisations-professionnels/decathlon.webp" data-lightbox="images" data-title="">
           <img style="max-width: 100%;" src="/images/realisations-professionnels/decathlon.webp" alt="Decathlon">
       </a>
-      <a href="/images/realisations-professionnels/yemma_mia.webp" data-lightbox="images" data-title="">
-            <img style="max-width: 100%;" src="/images/realisations-professionnels/yemma_mia.webp" alt="Yemma Mia">
-      </a>
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
+      <a href="/images/realisations-professionnels/yemma_mia.webp" data-lightbox="images" data-title="">
+            <img style="max-width: 100%;" src="/images/realisations-professionnels/yemma_mia.webp" alt="Yemma Mia">
+      </a>
       <a href="/images/realisations-professionnels/quadrifoglio.webp" data-lightbox="images" data-title="">
           <img style="max-width: 100%;" src="/images/realisations-professionnels/quadrifoglio.webp" alt="Quadrifoglio">
-      </a>
-
-      <a href="/images/realisations-professionnels/square_habitat.webp" data-lightbox="images" data-title="">
-          <img style="max-width: 100%;" src="/images/realisations-professionnels/square_habitat.webp" alt="Square Habitat">
       </a>
     </div>
   </div>

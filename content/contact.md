@@ -18,7 +18,7 @@ categories:
         <div>
             <p class="icon solid fa-phone" style="margin-bottom: 10px;"></p>
             <p style="margin-bottom: 10px;">Appelez-moi</p>    
-            <p style="margin-bottom: 10px;">06 74 60 27 06</p>   
+            <p style="margin-bottom: 10px;"><a href="tel:0674602706">06 74 60 27 06</a></p>   
         </div>
   </div>
   <div class="flex-item">

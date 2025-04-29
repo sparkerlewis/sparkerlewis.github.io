@@ -1,5 +1,5 @@
 .button.primary {
-    background-color: #414244;
+    background-color: #bf9325;
     box-shadow: none !important;
     color: #fff !important;
 }
@@ -13,16 +13,47 @@ button.primary:hover,
     background-color: #414244 !important;
 }
 
+#ma_mission_photo h2 {
+    font-family: "Abril Fatface";
+}
+
+#ma_mission_photo p {
+    font-family: 'Glacial Indifference';
+}
+
 #contactez_moi_txt h2 {
-    color: #6D6354F2;
+    color: #242424;
+    font-family: "Abril Fatface";
+}
+
+#contactez_moi_txt p {
+    font-family: 'Glacial Indifference';
 }
 
 #video_manue_txt h2 {
-    color: #6D6354F2;
+    color: #242424;
+    font-family: "Abril Fatface";
+}
+
+#video_manue_txt p {
+    font-family: 'Glacial Indifference';
+}
+
+#three h2 {
+    font-family: "Abril Fatface";
+}
+
+#three p {
+    font-family: 'Glacial Indifference';
 }
 
 #contact_adresse_txt h2 {
-    color: #6D6354F2;
+    color: #242424;
+    font-family: "Abril Fatface";
+}
+
+#contact_adresse_txt p {
+    font-family: 'Glacial Indifference';
 }
 
 .features li:before {
@@ -31,8 +62,16 @@ button.primary:hover,
 
 .wrapper.style3 {
     /* background-color: #6D6354; */
-    background-color: #81796a;
+    background-color: #eecab2;
     color: #ffffff;
+}
+
+.wrapper.style4 h2 {
+    font-family: "Abril Fatface";
+}
+
+.wrapper.style4 p {
+    font-family: 'Glacial Indifference';
 }
 
 #menu {
@@ -45,7 +84,7 @@ button.primary:hover,
 
 body.landing #footer {
     /* background-color: rgba(29, 36, 42); */
-    background-color: #414244;
+    background-color: #242424;
 }
 
 body.is-mobile.landing #page-wrapper {
@@ -54,7 +93,7 @@ body.is-mobile.landing #page-wrapper {
 
 body.is-mobile.landing #footer {
     /* background-color: #1d242a; */
-    background-color: #414244;
+    background-color: #242424;
 }
 
 /*.cookie-box {
@@ -123,12 +162,28 @@ h6 {
     text-transform: none;
 }
 
+#banner h2 {
+    font-family: "Abril Fatface";
+    font-size: 350%;
+    /*color: #bf9325;*/
+}
+
 #banner p {
     text-transform: none;
 }
 
+#private_service h2 {
+    font-family: "Abril Fatface";
+    color: #242424;
+}
+
+#private_service_prices h2 {
+    font-family: "Abril Fatface";
+    color: #242424;
+}
+
 .wrapper.style2 {
-    background-color: #dbcfb6;
+    background-color: #f3e8d9;
 }
 
 #banner:after {
@@ -136,7 +191,8 @@ h6 {
 }
 
 #header {
-    background: #414244;
+    background: #242424;
+    font-family: "Abril Fatface";
 }
 
 .termsfeed-com---pc-dialog .cc-cp-body-tabs {
@@ -176,5 +232,9 @@ h6 {
 #pricing_div b,
 #pricing_div p,
 #pricing_div li {
-    color: white;
+    /*color: white;*/
+}
+
+#pricing_div h2 {
+    font-family: "Abril Fatface";
 }
