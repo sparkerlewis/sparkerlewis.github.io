@@ -21,9 +21,30 @@ button.primary:hover,
     font-family: 'Glacial Indifference';
 }
 
+#ma_mission_photo blockquote {
+    font-size: 20px;
+}
+
+#ma_mission_photo img {
+    margin-left: 10%;
+}
+
+@media screen and (max-width: 600px) {
+    #ma_mission_photo img {
+        margin-left: 0;
+    }
+}
+
+blockquote {
+    color: #bf9325;
+    border-left: solid 4px #bf9325;
+}
+
+
 #contactez_moi_txt h2 {
     color: #242424;
     font-family: "Abril Fatface";
+    letter-spacing: 0.0em;
 }
 
 #contactez_moi_txt p {
@@ -33,6 +54,7 @@ button.primary:hover,
 #video_manue_txt h2 {
     color: #242424;
     font-family: "Abril Fatface";
+    font-size: 25px;
 }
 
 #video_manue_txt p {
@@ -41,11 +63,23 @@ button.primary:hover,
 
 #three h2 {
     font-family: "Abril Fatface";
+    font-size: 25px;
 }
 
 #three p {
     font-family: 'Glacial Indifference';
 }
+
+/*.features  li.icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.features  li.icon::before {
+    font-size: 32px;
+    min-width: 32px;
+}*/
 
 #contact_adresse_txt h2 {
     color: #242424;
@@ -164,7 +198,7 @@ h6 {
 
 #banner h2 {
     font-family: "Abril Fatface";
-    font-size: 300%;
+    font-size: 250%;
     /*color: #bf9325;*/
 }
 
