@@ -40,15 +40,56 @@ blockquote {
     border-left: solid 4px #bf9325;
 }
 
+#contact_address h2 {
+    color: #242424;
+    font-family: "Abril Fatface";
+    font-size: 25px;
+}
 
 #contactez_moi_txt h2 {
     color: #242424;
     font-family: "Abril Fatface";
-    letter-spacing: 0.0em;
+    font-size: 25px;
+    #letter-spacing: 0.0em;
 }
 
 #contactez_moi_txt p {
     font-family: 'Glacial Indifference';
+}
+
+#confidence_txt h2 {
+    color: #242424;
+    font-family: "Abril Fatface";
+    font-size: 25px;
+}
+
+@media (min-width: 601px) {
+    #confidence-container {
+        text-decoration: none;
+        outline: none;
+        border: none;
+    }
+
+    #confidence-image {
+        #max-width: 600px;
+        height: 150px;
+        display: block;
+    }
+}
+
+/* Style pour les écrans de 600px et moins */
+@media (max-width: 600px) {
+    #confidence-container {
+        text-decoration: none;
+        outline: none;
+        border: none;
+    }
+
+    #confidence-image {
+        max-width: 600px;
+        width: 100%;
+        display: block;
+    }
 }
 
 #video_manue_txt h2 {

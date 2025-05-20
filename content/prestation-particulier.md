@@ -22,10 +22,11 @@ categories:
         <h2>Aménagement d’intérieur sur mesure à Lille</h2>
         <p align="justify">Vous faites construire, vous déménagez, vous rénovez ou agrandissez ? Vous cherchez un accompagnement professionnel pour repenser votre espace ? Je vous propose des solutions d’aménagement d’intérieur sur mesure, adaptées à vos besoins, vos envies, vos habitudes et votre mode de vie.</p>
 
+        <h2>Repenser et transformer vos espaces</h2>
         <p align="justify">
-        Spécialisée en aménagement d’intérieur à Lille et dans le Nord, je vous guide dans chaque étape de votre projet. Que ce soit pour une pièce à transformer ou un intérieur complet à repenser, j’imagine avec vous un univers à votre image, harmonieux, fonctionnel et esthétique.
+        Spécialisée en aménagement d’intérieur à Lille et dans le Nord, je vous guide dans chaque étape de votre projet. Que ce soit pour une pièce à transformer ou un intérieur complet à repenser, j’imagine avec vous un <b>univers à votre image</b>, <b>harmonieux</b>, <b>fonctionnel</b> et <b>esthétique</b>.
         </p>
-
+        
         <p align="justify">
         Vous ne savez pas quelle prestation est faite pour vous, contactez-moi pour cibler votre demande et valider ensemble la prestation adéquate.
         </p>
@@ -41,6 +42,7 @@ categories:
         <source src="/videos/Mes-Prestations.mp4" type="video/mp4">
     </video>
 </center>
+<br>
 <br>
 <br>
 <div id="private_service_prices">
