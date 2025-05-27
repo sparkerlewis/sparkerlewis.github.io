@@ -5,7 +5,7 @@
 <section id="one" class="wrapper style5 special">
     <div class="inner" id="contactez_moi_txt">
         <header class="major">
-            <h2>{{ .title | safeHTML}}</h2>
+            <h2>{{ .title | safeHTML}} <br> {{ .title2 | safeHTML}} </h2>
 
             {{ partial "body_text.html" (dict "context" . "md" $md) }}
         </header>

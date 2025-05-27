@@ -60,7 +60,8 @@ title = "Contact"
 
 [params.one]
 enable = true
-title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? Un projet de rénovation ? '
+title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? '
+title2 = 'Un projet de rénovation ? '
 body = 'Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, sans oublier de vous créer des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
 StartbuttonLink = 'mailto:contact@interieurdeco.fr'
 StartbuttonText = 'Contactez-moi'

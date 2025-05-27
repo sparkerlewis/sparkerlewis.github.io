@@ -14,7 +14,9 @@ button.primary:hover,
 }
 
 #ma_mission_photo h2 {
-    font-family: "Abril Fatface";
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #ma_mission_photo p {
@@ -40,17 +42,30 @@ blockquote {
     border-left: solid 4px #bf9325;
 }
 
+.wrapper.style5 blockquote {
+    border-color: #bf9325;
+}
+
+.wrapper.style5 p {
+    font-family: 'Glacial Indifference';
+}
+
+.wrapper.style5 a {
+    font-family: 'Glacial Indifference';
+}
+
 #contact_address h2 {
     color: #242424;
-    font-family: "Abril Fatface";
-    font-size: 25px;
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #contactez_moi_txt h2 {
     color: #242424;
-    font-family: "Abril Fatface";
-    font-size: 25px;
-    #letter-spacing: 0.0em;
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #contactez_moi_txt p {
@@ -59,8 +74,9 @@ blockquote {
 
 #confidence_txt h2 {
     color: #242424;
-    font-family: "Abril Fatface";
-    font-size: 25px;
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;;
 }
 
 @media (min-width: 601px) {
@@ -94,8 +110,9 @@ blockquote {
 
 #video_manue_txt h2 {
     color: #242424;
-    font-family: "Abril Fatface";
-    font-size: 25px;
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #video_manue_txt p {
@@ -103,8 +120,9 @@ blockquote {
 }
 
 #three h2 {
-    font-family: "Abril Fatface";
-    font-size: 25px;
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #three p {
@@ -124,11 +142,17 @@ blockquote {
 
 #contact_adresse_txt h2 {
     color: #242424;
-    font-family: "Abril Fatface";
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #contact_adresse_txt p {
     font-family: 'Glacial Indifference';
+}
+
+#contact_adresse_txt.wrapper.style5 {
+    padding-top: 1em;
 }
 
 .features li:before {
@@ -142,7 +166,9 @@ blockquote {
 }
 
 .wrapper.style4 h2 {
-    font-family: "Abril Fatface";
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 .wrapper.style4 p {
@@ -150,7 +176,10 @@ blockquote {
 }
 
 #menu {
-    background: #B2A894;
+    #background: #B2A894;
+    background: #bf9325;
+    font-family: "georgia";
+    #color: #bf9325;
 }
 
 /* Footer article */
@@ -205,6 +234,10 @@ body.is-mobile.landing #footer {
     color: #fff;
 }
 
+#footer li {
+    font-family: 'Glacial Indifference';
+}
+
 @media screen and (max-width: 480px) {
     #footer .footer_menu li {
         border: 0;
@@ -245,16 +278,24 @@ h6 {
 
 #banner p {
     text-transform: none;
+    font-family: 'Glacial Indifference';
+}
+#private_service p {
+    font-family: 'Glacial Indifference';
 }
 
 #private_service h2 {
-    font-family: "Abril Fatface";
+    font-family: "georgia";
     color: #242424;
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 #private_service_prices h2 {
-    font-family: "Abril Fatface";
+    font-family: "georgia";
     color: #242424;
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
 
 .wrapper.style2 {
@@ -268,6 +309,12 @@ h6 {
 #header {
     background: #242424;
     font-family: "Abril Fatface";
+    font-size: 20px;
+    letter-spacing: 0.11em;
+}
+
+#confidence_txt header.major {
+    margin: 0 0 1em 0;
 }
 
 .termsfeed-com---pc-dialog .cc-cp-body-tabs {
@@ -302,14 +349,16 @@ h6 {
     }
 }
 
-#pricing_div h2,
 #pricing_div h4,
 #pricing_div b,
 #pricing_div p,
 #pricing_div li {
     /*color: white;*/
+    font-family: 'Glacial Indifference';
 }
 
 #pricing_div h2 {
-    font-family: "Abril Fatface";
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
 }
