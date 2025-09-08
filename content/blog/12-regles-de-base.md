@@ -65,7 +65,7 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
 </div>
 </br>
  <div style="text-align: center;">
-        <img src="/images/blog/article10/4-peinture.webp" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article10/3-regles-de-bases.jpg" style="max-width: 70%; height: auto;">
 </div>
 <div>
     <h2><strong>Sélectionner du mobilier adapté</strong></h2>
