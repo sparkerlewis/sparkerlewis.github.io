@@ -110,11 +110,5 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
 	</ul>
  </div>
 
-  <div style="text-align: center;">
-        <img src="/images/blog/article10/5-peinture.webp" style="max-width: 70%; height: auto;">
-</div>
-</br>
-
-
 {{< /simple_html >}}
 <!-- FM:Snippet:End -->
