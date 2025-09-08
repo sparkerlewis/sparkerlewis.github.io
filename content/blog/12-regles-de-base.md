@@ -2,7 +2,7 @@
 title: Les règles de base de la décoration intérieure
 description: ""
 date: 2025-09-07T12:00:00+02:00
-preview: /images/blog/article10/1-regles-de-base.jpg
+preview: /images/blog/article12/1-regles-de-base.jpg
 draft: false
 tags:
     - aménagement
@@ -29,7 +29,7 @@ categories:
         </br>
 
         <div style="text-align: center;">
-        <img src="/images/blog/article10/1-regles-de-base.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article12/1-regles-de-base.jpg" style="max-width: 70%; height: auto;">
     </div>
     </br>
         
@@ -55,7 +55,7 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/article10/2-regles-de-base.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article12/2-regles-de-base.jpg" style="max-width: 70%; height: auto;">
 </div>
 </br>
 
@@ -65,7 +65,7 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
 </div>
 </br>
  <div style="text-align: center;">
-        <img src="/images/blog/article10/3-regles-de-bases.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article12/3-regles-de-bases.jpg" style="max-width: 70%; height: auto;">
 </div>
 <div>
     <h2><strong>Sélectionner du mobilier adapté</strong></h2>
