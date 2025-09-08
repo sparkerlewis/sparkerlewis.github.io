@@ -36,9 +36,7 @@ categories:
         <h2><strong>Penser l’aménagement de l’espace</strong></h2>
         <p style="text-align: justify;">L’agencement est la première étape d’une décoration réussie. Assurez-vous que la circulation soit fluide et que chaque zone de la pièce ait une fonction claire. Évitez d’encombrer l’espace avec trop de meubles et adaptez leurs dimensions à la surface disponible. Un intérieur bien organisé respire et reste agréable à vivre.</p>    
     </div>
-    <div style="text-align: center;">
-        <img src="/images/blog/article10/2-peinture.webp" style="max-width: 70%; height: auto;">
-    </div>
+ 
     </br>
 </div>
 
@@ -57,7 +55,7 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/article10/3-peinture.webp" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article10/2-regles-de-base.jpg" style="max-width: 70%; height: auto;">
 </div>
 </br>
 
@@ -66,14 +64,14 @@ décoratrice d’intérieur à Lille</a> peut s’avérer précieux pour guider 
     <p style="text-align: justify;">L’éclairage joue un rôle déterminant dans l’ambiance intérieure. Valorisez la lumière naturelle avec des rideaux légers et complétez-la par trois types d’éclairage : général, fonctionnel et décoratif. Cette combinaison permet de moduler l’atmosphère et d’adapter chaque pièce à vos besoins quotidiens.</p>    
 </div>
 </br>
-
+ <div style="text-align: center;">
+        <img src="/images/blog/article10/4-peinture.webp" style="max-width: 70%; height: auto;">
+</div>
 <div>
     <h2><strong>Sélectionner du mobilier adapté</strong></h2>
     <p style="text-align: justify;">Le mobilier doit correspondre à la taille de la pièce et à vos usages. Préférez des meubles proportionnés et confortables plutôt que trop imposants. Un canapé bien choisi, une table adaptée ou encore des rangements fonctionnels facilitent la vie au quotidien et renforcent l’esthétisme de votre intérieur.</p>    
 </div>
- <div style="text-align: center;">
-        <img src="/images/blog/article10/4-peinture.webp" style="max-width: 70%; height: auto;">
-</div>
+
 </br>
 
 <div>
