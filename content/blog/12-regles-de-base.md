@@ -2,7 +2,7 @@
 title: Les règles de base de la décoration intérieure
 description: ""
 date: 2025-09-07T12:00:00+02:00
-preview: /images/blog/article10/1-peinture.webp
+preview: /images/blog/article10/1-regles-de-base.jpg
 draft: false
 tags:
     - aménagement
@@ -29,7 +29,7 @@ categories:
         </br>
 
         <div style="text-align: center;">
-        <img src="/images/blog/article10/1-peinture.webp" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article10/1-regles-de-base.jpg" style="max-width: 70%; height: auto;">
     </div>
     </br>
         
