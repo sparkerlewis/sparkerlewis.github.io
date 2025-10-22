@@ -52,7 +52,7 @@ C’est également à ce stade qu’il peut être judicieux de faire appel à un
 </div>
 
   <div style="text-align: center;">
-        <img src="/images/blog/article13/2-erreurs-a-eviter" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article13/2-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
