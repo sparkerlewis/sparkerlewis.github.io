@@ -2,7 +2,7 @@
 title: Les erreurs à éviter quand on se lance dans un projet de rénovation
 description: ""
 date: 2025-10-21T12:00:00+02:00
-preview: /images/blog/article12/1-regles-de-base.jpg
+preview: /images/blog/article13/1-erreurs-a-eviter.jpg
 draft: false
 tags:
     - aménagement
@@ -29,7 +29,7 @@ categories:
         </br>
 
         <div style="text-align: center;">
-        <img src="/images/blog/article12/1-regles-de-base.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article13/1-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
     </div>
     </br>
         
@@ -52,7 +52,7 @@ C’est également à ce stade qu’il peut être judicieux de faire appel à un
 </div>
 
   <div style="text-align: center;">
-        <img src="/images/blog/article12/3-regles-de-bases.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article13/2-erreurs-a-eviter" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
@@ -73,7 +73,7 @@ Un projet bien conçu s’adapte à votre rythme de vie et non l’inverse.
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/article12/2-regles-de-base.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article13/3-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
