@@ -85,7 +85,6 @@ Un projet bien conçu s’adapte à votre rythme de vie et non l’inverse.
 </p>    
 </div>
 
-</br>
     <p></p>
 </div>
 </br>
