@@ -64,7 +64,7 @@ title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? '
 title2 = 'Un projet de rénovation ? '
 body = 'Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, sans oublier de vous créer des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie.'
 StartbuttonLink = 'mailto:contact@interieurdeco.fr'
-StartbuttonText = "J'ai un projet et j'ai besoin d'être accompagné"
+StartbuttonText = "J'ai besoin d'être accompagné"
 
 [params.two]
 enable = true
@@ -136,7 +136,7 @@ special = true
 
 [[params.cta.link]]
 href = "/realisations-particuliers"
-text = "Mes réalisations"
+text = "Réalisations"
 special = false
 
 [params.contact]
