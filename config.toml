@@ -62,7 +62,12 @@ title = "Contact"
 enable = true
 title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? '
 title2 = 'Un projet de rénovation ? '
-body = "Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, sans oublier de vous créer des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie. **Un projet bien pensé, c’est un quotidien plus fluide et un vrai confort de vie.**"
+body = "Intérieur Déco, entreprise de décoration d’intérieur à Lille, vous accompagne dans la conception et l’aménagement de vos espaces, sans oublier de vous créer des ambiances uniques et personnalisées, adaptées à vos envies et à votre mode de vie. 
+Pourquoi aménager et décorer votre espace avec Intérieur Déco ?
+• Pour optimiser chaque m2
+• Pour un intérieur fonctionnel, harmonieux et à votre image
+• Pour éviter les erreurs, gagner du temps et faire les bons choix dès le départ.
+**Un projet bien pensé, c’est un quotidien plus fluide et un vrai confort de vie.**"
 StartbuttonLink = 'mailto:contact@interieurdeco.fr'
 StartbuttonText = "J'ai besoin d'être accompagné"
 
