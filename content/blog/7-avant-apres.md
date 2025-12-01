@@ -1,5 +1,5 @@
 ---
-title: "Avant / après : l’aménagement d’une grande pièce à vivre"
+title: "Avant Après Déco : l’aménagement d’une pièce à vivre d'une maison familiale à Ronchin"
 description: ""
 date: 2023-11-15T14:35:55.119Z
 preview: /images/blog/article7/1-piece-a-vivre.webp
@@ -34,9 +34,9 @@ categories:
 
 
 <div>
-    <p style="text-align: justify;">Mes clients ont fait appel à moi après avoir acquis cette maison avant de se lancer dans les travaux de rénovation. Ils avaient besoin que je les aide à organiser&nbsp;la pièce à vivre de leur maison et que je les <span style="font-weight: bold;">aide à se projeter dans leur nouvel intérieur</span>.</p>
-    <p style="text-align: justify;">Je vais vous présenter l’ensemble de mon accompagnement, du premier rendez-vous, du moodboard, des vues 3D, jusqu’à ce que vous voyez aujourd’hui.</p>
-    <p style="text-align: justify;">Ils souhaitaient un intérieur clair, lumineux, chaleureux et pas trop chargé avec des meubles simples, le tout intemporel, facile à vivre, fonctionnel&nbsp;: une maison de famille agréable à vivre avec 4 enfants.</p>
+    <p style="text-align: justify;">Mes clients ont fait appel à moi après avoir acquis cette maison à Ronchin, près de Lille dans le Nord, avant de se lancer dans les **travaux de rénovation**. Ils avaient besoin que je les aide à organiser&nbsp;la pièce à vivre de leur maison et que je les <span style="font-weight: bold;">aide à se projeter dans leur nouvel intérieur</span>.</p>
+    <p style="text-align: justify;"> **Je vais vous présenter l’ensemble de mon accompagnement, en tant que décoratrice d'intérieur à Lille, du premier rendez-vous, du moodboard, des vues 3D, jusqu’à ce que vous voyez aujourd’hui.**</p>
+    <p style="text-align: justify;">Ils souhaitaient un intérieur **clair**, **lumineux**, **chaleureux** et pas trop chargé avec des meubles simples, le tout **intemporel**, **facile à vivre**, **fonctionnel&nbsp;**: une maison de famille agréable à vivre avec 4 enfants.</p>
     <p style="text-align: justify;">Le travail a commencé par un brief, c’est l’étape du brief client. C’est un moment privilégié entre les clients et moi. Durant ce brief, nous <span style="font-weight: bold;">échangeons sur leur mode de vie, leurs envies, leurs besoins</span>. On fait également un <span style="font-weight: bold;">travail autour des couleurs et de différents styles décoratifs</span>. Il faut vraiment poser un maximum de questions et être à leur écoute pour pouvoir bien traduire ensuite tout le flux d’informations en un aménagement et une ambiance décorative. Poser les bonnes questions :&nbsp;est-ce que vous recevez souvent ?&nbsp;Est-ce que vous prenez vos repas au quotidien dans la salle à manger ?&nbsp;Etc.</p>
     <p style="text-align: justify;">La maison était vide, mes clients avaient pris la décision de n’emménager qu’après la réalisation des travaux et l’aménagement du mobilier et accessoires décoratifs. Donc je ne pouvais pas m’appuyer sur l’ambiance, le style que mes clients aiment ou n’aiment pas. Donc cela passait forcément par le questionnement. Ils souhaitaient également repartir de zéro et ne rien récupérer de leur salon salle à manger actuels.</p>
     <p style="text-align: justify;">Ensuite vient le moment de réaliser l’ensemble des métrés, du repérage des contraintes techniques, de l’existant et enfin la prise de photos. Il faut être méthodique et minutieux.</p>
