@@ -2,7 +2,7 @@
 title: Les règles à respecter pour choisir les couleurs
 description: ""
 date: 2025-11-30T12:00:00+02:00
-preview: /images/blog/static/images/blog/image 1_article 14.jpg
+preview: /images/blog/static/images/blog/article14/image 1_article 14.jpg
 draft: false
 tags:
     - aménagement
