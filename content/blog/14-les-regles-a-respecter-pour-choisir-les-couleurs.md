@@ -2,7 +2,7 @@
 title: Les règles à respecter pour choisir les couleurs
 description: ""
 date: 2025-11-30T12:00:00+02:00
-preview: /images/blog/article14/1-les-regles-a-respecter-pour-choisir-les-couleurs.jpg
+preview: /images/blog/static/images/blog/image 1_article 14.jpg
 draft: false
 tags:
     - aménagement
@@ -22,16 +22,17 @@ categories:
 {{< simple_html >}}
 
 <div>
+    <div style="text-align: center;">
+        <img src="/images/blog/image 1_article 14.jpg" style="max-width: 70%; height: auto;">
+    </div>
+    </br>
+
+<div>
     
     <div>
         <p style="text-align: justify;">Choisir les couleurs de votre intérieur semble souvent intuitif, mais en pratique, quelques règles simples permettent d’éviter les faux pas et d’obtenir une décoration cohérente, élégante et agréable à vivre. Avant de vous précipiter sur un nuancier, prenez le temps de comprendre comment les couleurs influencent la lumière, le volume et l’atmosphère d’une pièce.</p>
         <p></p>
         </br>
-
-        <div style="text-align: center;">
-        <img src="/images/blog/article13/1-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
-    </div>
-    </br>
         
         <h2><strong>Comprendre l’impact des couleurs dans votre intérieur</strong></h2>
         <p style="text-align: justify;">Les couleurs ne sont pas qu’une affaire de goût. Elles agissent sur votre perception de l’espace et sur votre confort au quotidien.
@@ -52,7 +53,12 @@ Vos réponses guideront vos choix de teintes claires, foncées, chaudes ou froid
     </div>
  
     </br>
+	
+ <div style="text-align: center;">
+        <img src="/images/blog/image 3_article 14.jpg" style="max-width: 70%; height: auto;">
 </div>
+
+</br>
 
 <div>
     <h2><strong>Couleurs claires et couleurs foncées : jouer avec la lumière et le volume</strong></h2>
@@ -74,11 +80,7 @@ La règle à retenir est simple : privilégiez les couleurs claires comme base (
     <p></p>
 </div>
 
-  <div style="text-align: center;">
-        <img src="/images/blog/article13/2-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
-</div>
-
-</br>
+ 
 <div>
     <h2><strong>Couleurs chaudes et couleurs froides : créer l’ambiance juste</strong></h2>
 <p style="text-align: justify;">Les couleurs chaudes (ocres, terracotta, jaune moutarde, rouge brique, certains roses) créent une atmosphère conviviale et enveloppante. Elles sont particulièrement adaptées :
@@ -115,7 +117,7 @@ Ne cherchez pas à multiplier les couleurs sur chaque mur. Limiter la palette à
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/article13/3-erreurs-a-eviter.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/image 2_article 14.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
