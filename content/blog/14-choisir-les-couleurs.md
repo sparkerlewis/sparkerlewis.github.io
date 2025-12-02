@@ -2,7 +2,7 @@
 title: Les règles à respecter pour choisir les couleurs
 description: ""
 date: 2025-11-30T12:00:00+02:00
-preview: /images/blog/static/images/blog/article14/image 1_article 14.jpg
+preview: /images/blog/static/images/blog/article14/1-choisir-les-couleurs.jpg
 draft: false
 tags:
     - aménagement
@@ -23,7 +23,7 @@ categories:
 
 <div>
     <div style="text-align: center;">
-        <img src="/images/blog/image 1_article 14.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article14/1-choisir-les-couleurs.jpg" style="max-width: 70%; height: auto;">
     </div>
     </br>
 
@@ -55,7 +55,7 @@ Vos réponses guideront vos choix de teintes claires, foncées, chaudes ou froid
     </br>
 	
  <div style="text-align: center;">
-        <img src="/images/blog/image 3_article 14.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article14/2-choisir-les-couleurs.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
@@ -117,7 +117,7 @@ Ne cherchez pas à multiplier les couleurs sur chaque mur. Limiter la palette à
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/image 2_article 14.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article14/3-choisir-les-couleurs.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
