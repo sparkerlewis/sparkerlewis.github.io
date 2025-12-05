@@ -47,7 +47,7 @@ Avant de choisir les couleurs, posez-vous quelques questions simples :<br><br>
 
 • quelle est la fonction de la pièce (repos, travail, convivialité) ?<br>
 • quelle est la quantité de lumière naturelle disponible ?<br>
-• quelles couleurs sont déjà présentes (sol, mobilier, menuiseries) ?<br>
+• quelles couleurs sont déjà présentes (sol, mobilier, menuiseries) ?<br><br>
 
 Vos réponses guideront vos choix de teintes claires, foncées, chaudes ou froides, et vous aideront à bâtir un fil conducteur pour votre décoration. Que vous soyez en pleine rénovation ou au début d’un projet d’<a href="https://interieurdeco.fr/prestation-particulier/" style="color:#916347; text-decoration: underline;">aménagement d’intérieur à Lille</a>, cette réflexion préalable est essentielle pour obtenir un résultat harmonieux et durable.</p>
     </div>
@@ -83,17 +83,17 @@ La règle à retenir est simple : privilégiez les couleurs claires comme base (
  
 <div>
     <h2><strong>Couleurs chaudes et couleurs froides : créer l’ambiance juste</strong></h2>
-<p style="text-align: justify;">Les couleurs chaudes (ocres, terracotta, jaune moutarde, rouge brique, certains roses) créent une atmosphère conviviale et enveloppante. Elles sont particulièrement adaptées :
+<p style="text-align: justify;">Les couleurs chaudes (ocres, terracotta, jaune moutarde, rouge brique, certains roses) créent une atmosphère conviviale et enveloppante. Elles sont particulièrement adaptées :<br><br>
 
 • aux pièces de vie comme le salon ou la salle à manger<br>
 • aux espaces où l’on reçoit et échange<br>
-• aux pièces orientées au nord, pour compenser une lumière plus froide<br>
+• aux pièces orientées au nord, pour compenser une lumière plus froide<br><br>
 
-Les couleurs froides (bleus, verts, certains gris) apportent une sensation de calme et de fraîcheur. Elles conviennent parfaitement :
+Les couleurs froides (bleus, verts, certains gris) apportent une sensation de calme et de fraîcheur. Elles conviennent parfaitement :<br><br>
 
 • aux chambres, pour une ambiance reposante<br>
 • aux bureaux, pour favoriser la concentration<br>
-• aux pièces très exposées au soleil, pour tempérer visuellement la chaleur<br>
+• aux pièces très exposées au soleil, pour tempérer visuellement la chaleur<br><br>
 
 Une bonne pratique consiste à équilibrer les deux familles : une base douce, plutôt neutre, et quelques touches chaudes ou froides en fonction de l’ambiance recherchée
 </p>
@@ -106,11 +106,11 @@ Une bonne pratique consiste à équilibrer les deux familles : une base douce, p
     <h2><strong>La couleur et le volume : corriger les proportions d’une pièc</strong></h2>
     <p style="text-align: justify;">La couleur est un outil précieux pour rééquilibrer les volumes.
 
-Quelques repères simples :
+Quelques repères simples :<br><br>
 
 • si vous peignez le mur du fond dans une teinte plus foncée, la pièce semblera plus courte mais plus cosy<br>
 • si vous appliquez une couleur plus foncée sur les murs latéraux et un ton plus clair au fond, vous donnez l’impression d’élargir la pièce<br>
-• un soubassement coloré (sur le tiers inférieur du mur environ) structure la pièce et peut masquer visuellement certains défauts<br>
+• un soubassement coloré (sur le tiers inférieur du mur environ) structure la pièce et peut masquer visuellement certains défauts<br><br>
 
 Ne cherchez pas à multiplier les couleurs sur chaque mur. Limiter la palette à deux ou trois teintes principales par pièce permet de conserver une harmonie visuelle.
 </p>    
@@ -124,11 +124,11 @@ Ne cherchez pas à multiplier les couleurs sur chaque mur. Limiter la palette à
 
 <div>
     <h2><strong>La peinture du plafond : un levier souvent oublié</strong></h2>
-    <p style="text-align: justify;">On a tendance à peindre systématiquement le plafond en blanc, mais ce n’est pas une obligation. La couleur du plafond participe pleinement à la perception du volume :
+    <p style="text-align: justify;">On a tendance à peindre systématiquement le plafond en blanc, mais ce n’est pas une obligation. La couleur du plafond participe pleinement à la perception du volume :<br><br>
 
 • un plafond blanc ou très clair donne une impression de hauteur et de légèreté<br>
 • un plafond légèrement teinté (une nuance plus claire que les murs) crée une atmosphère douce et enveloppante<br>
-• un plafond foncé peut être très élégant dans un grand volume, un couloir ou un espace de caractère, mais il écrase une pièce déjà basse de plafond<br>
+• un plafond foncé peut être très élégant dans un grand volume, un couloir ou un espace de caractère, mais il écrase une pièce déjà basse de plafond<br><br>
 
 Si vous débutez, rester sur un plafond clair demeure une option sûre. Vous pourrez ensuite jouer sur la couleur des murs et des menuiseries pour apporter du relief.
 
@@ -139,11 +139,11 @@ Si vous débutez, rester sur un plafond clair demeure une option sûre. Vous pou
 
 <div>
     <h2><strong>Construire l’harmonie des couleurs dans une pièce</strong></h2>
-<p style="text-align: justify;">Pour réussir l’harmonie des couleurs, il est utile de raisonner en palette plutôt qu’en teintes isolées. Vous pouvez suivre une règle simple :
+<p style="text-align: justify;">Pour réussir l’harmonie des couleurs, il est utile de raisonner en palette plutôt qu’en teintes isolées. Vous pouvez suivre une règle simple :<br><br>
 
 • une couleur dominante (souvent claire), présente sur la majorité des surfaces<br>
 • une couleur secondaire, plus affirmée, qui structure l’espace<br>
-• quelques touches d’accent via les textiles, luminaires, objets déco<br>
+• quelques touches d’accent via les textiles, luminaires, objets déco<br><br>
 
 Pensez également à la continuité entre les pièces. Même si chaque espace possède sa personnalité, garder un fil conducteur (une base neutre, une famille de couleurs récurrente, une matière commune) donne une impression de cohérence à l’ensemble de votre intérieur.
 
@@ -155,7 +155,7 @@ Pensez également à la continuité entre les pièces. Même si chaque espace po
 
 <div>
     <h2><strong>Éviter les erreurs fréquentes</strong></h2>
-<p style="text-align: justify;">Pour choisir les couleurs sereinement, veillez à :
+<p style="text-align: justify;">Pour choisir les couleurs sereinement, veillez à :<br><br>
 
 • toujours tester la peinture sur vos murs, à différentes heures de la journée<br>
 • tenir compte de la lumière naturelle et de l’éclairage artificiel<br>
