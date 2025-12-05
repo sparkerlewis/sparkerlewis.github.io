@@ -1,5 +1,5 @@
 ---
-title: Décorer un bien en investissement locatif
+title: Décorer un AIRBNB à Lille
 description: ""
 date: 2023-11-18T14:35:55.119Z
 preview: /images/blog/article4/1-conseil.webp
@@ -27,7 +27,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        La décoration est un point important de l’investissement locatif, notamment si vous prévoyez de louer votre logement en meublé. Voici quelles en sont les raisons :
+        La décoration est un point important de l’investissement locatif, notamment si vous prévoyez de louer votre logement en meublé. "En tant que décoratrice d'intérieur à Lille, j'ai accompagné mes clients pour leur bien loué en AIRBNB à Lille. Voici ce que le travail de décoration d'intérieur peut apporter à votre projet locatif à Lille et ailleurs :"
   </p>
 </div>
 
@@ -51,7 +51,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Au même titre qu’une résidence principale, un bien en location meublée doit également être agréable à vivre. Pour attirer des locataires, il faut faire en sorte qu’il donne envie dès le premier regard, que le locataire puisse s’y projeter et ainsi avoir un « coup de cœur ». Pour cela, la décoration joue un rôle primordial.
+        Au même titre qu’une résidence principale, un bien en location meublée doit également être agréable à vivre. Pour attirer des locataires, il faut faire en sorte qu’il donne envie dès le premier regard, que le locataire puisse s’y projeter et ainsi avoir un « coup de cœur ». Pour cela, la décoration joue un rôle primordial. 
     </p>
     <p style="text-align: justify;">
         Je vous recommande d’instaurer une décoration sobre pour permettre à tous les profils de locataires de s’y projeter tout en choisissant certains partis pris décoratifs forts (papier peint, couleur …)  pour marquer les esprits et vous démarquer.
