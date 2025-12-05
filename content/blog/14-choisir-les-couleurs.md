@@ -117,7 +117,7 @@ Ne cherchez pas à multiplier les couleurs sur chaque mur. Limiter la palette à
 </div>
 
  <div style="text-align: center;">
-        <img src="/images/blog/article14/3-choisir-les-couleurs.jpg" style="max-width: 70%; height: auto;">
+        <img src="/images/blog/article14/2-choisir-les-couleurs.jpg" style="max-width: 70%; height: auto;">
 </div>
 
 </br>
