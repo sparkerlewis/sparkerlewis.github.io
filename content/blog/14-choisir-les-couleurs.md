@@ -37,13 +37,13 @@ categories:
         <h2><strong>Comprendre l’impact des couleurs dans votre intérieur</strong></h2>
         <p style="text-align: justify;">Les couleurs ne sont pas qu’une affaire de goût. Elles agissent sur votre perception de l’espace et sur votre confort au quotidien.
 
-Une couleur peut :
+Une couleur peut :<br><br>
 
 • accentuer la luminosité ou, au contraire, l’absorber<br>
 • agrandir visuellement une pièce ou la rendre plus intimiste<br>
-• créer une ambiance chaleureuse, apaisante, dynamique ou sophistiquée <br>
+• créer une ambiance chaleureuse, apaisante, dynamique ou sophistiquée <br><br>
 
-Avant de choisir les couleurs, posez-vous quelques questions simples :
+Avant de choisir les couleurs, posez-vous quelques questions simples :<br><br>
 
 • quelle est la fonction de la pièce (repos, travail, convivialité) ?<br>
 • quelle est la quantité de lumière naturelle disponible ?<br>
@@ -63,17 +63,17 @@ Vos réponses guideront vos choix de teintes claires, foncées, chaudes ou froid
 <div>
     <h2><strong>Couleurs claires et couleurs foncées : jouer avec la lumière et le volume</strong></h2>
     <p style="text-align: justify;">
-Les couleurs claires (blanc cassé, beige, gris clair, lin, sable) réfléchissent la lumière. Elles sont idéales si vous souhaitez :
+Les couleurs claires (blanc cassé, beige, gris clair, lin, sable) réfléchissent la lumière. Elles sont idéales si vous souhaitez :<br><br>
 
 • agrandir visuellement une petite pièce<br>
 • rendre un espace plus lumineux<br>
-• créer une base neutre sur laquelle ajouter des touches plus affirmées<br>
+• créer une base neutre sur laquelle ajouter des touches plus affirmées<br><br>
 
-Les couleurs foncées, elles, absorbent la lumière. Utilisées avec parcimonie, elles apportent :
+Les couleurs foncées, elles, absorbent la lumière. Utilisées avec parcimonie, elles apportent :<br><br>
 
 • du caractère et de la profondeur<br>
 • une sensation de cocon, notamment dans un salon ou une chambre<br>
-• un contraste intéressant avec des éléments clairs (moulures, menuiseries, textile)<br>
+• un contraste intéressant avec des éléments clairs (moulures, menuiseries, textile)<br><br>
 
 La règle à retenir est simple : privilégiez les couleurs claires comme base (murs principaux) et utilisez les teintes foncées en accent, sur un pan de mur, une niche, une bibliothèque ou un soubassement. Cela permet de structurer l’espace sans l’alourdir.
 </p>
