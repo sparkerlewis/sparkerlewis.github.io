@@ -54,7 +54,7 @@ categories:
         Au même titre qu’une résidence principale, un bien en location meublée doit également être agréable à vivre. Pour attirer des locataires, il faut faire en sorte qu’il donne envie dès le premier regard, que le locataire puisse s’y projeter et ainsi avoir un « coup de cœur ». Pour cela, la décoration joue un rôle primordial. 
     </p>
     <p style="text-align: justify;">
-        Je vous recommande d’instaurer une décoration sobre pour permettre à tous les profils de locataires de s’y projeter tout en choisissant certains partis pris décoratifs forts (papier peint, couleur …)  pour marquer les esprits et vous démarquer. Pa rexemple, vous pourrez mettre en place une palette neutre + un mur vert profond dans le salon, une tête de lit en bois, une suspension design au-dessus de la table…
+        Je vous recommande d’instaurer une décoration sobre pour permettre à tous les profils de locataires de s’y projeter tout en choisissant certains partis pris décoratifs forts (papier peint, couleur …)  pour marquer les esprits et vous démarquer. Par exemple, vous pourrez mettre en place une palette neutre + un mur vert profond dans le salon, une tête de lit en bois, une suspension design au-dessus de la table…
     </p>
 </div>
 
@@ -174,7 +174,7 @@ Ne négligez pas le plan de travail de la cuisine sans oublier le mobilier de la
 </br>
 <div>
     <h3 style="text-align: center;">
-        Vous avez un projet d’aménagement? </br> Besoin de repenser votre intérieur ?
+        Pourquoi faire appel à une décoratrice d’intérieur à Lille pour votre investissement locatif ? 3 bénéfices : gain de temps, cohérence déco, meilleure rentabilité (occupation, loyers).
     </h3>
 
 	<ul class="actions special" style="margin-top: 5%;">
