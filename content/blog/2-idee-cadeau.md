@@ -22,13 +22,13 @@ categories:
 
 <div>
     <h2 style="text-align: center;">
-        IDÉES CADEAUX
+        ADRESSES DECO à LILLE POUR TROUVER VOS CADEAUX
     </h2>
 </div>
 
 <div>
     <p style="text-align: justify;">
-        Il existe de nombreuses options de cadeaux pour la fête des mères / fête des pères / fête des parents. Bien évidemment ils sont également valables pour les anniversaires, une pendaison de crémaillère ou encore pour Noël ! Voici quelques idées déco pour tous les budgets qui pourraient vous aider :
+        Il existe de nombreuses options de cadeaux pour la fête des mères / fête des pères / fête des parents. Bien évidemment ils sont également valables pour les anniversaires, une pendaison de crémaillère ou encore pour Noël ! En tant que décoratrice d’intérieur à Lille, je vous propose ci-après une sélection d’idées cadeaux déco pour tous les budgets qui pourraient vous aider. Au fil de cet article, je vais vous citer quelques boutiques déco choucou à Lille et dans la métropole lilloise.
   </p>
 </div>
 
@@ -67,7 +67,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Les fleurs sont un classique indémodable. Vous pouvez choisir les fleurs préférées de votre maman / papa / ami(e) / collègue etc ou opter pour une composition florale spéciale en choisissant des fleurs aux couleurs assorties à son intérieur. Et pourquoi ne pas opter également pour un bouquet de fleurs séchées ? C’est un choix tendance qui offre un style bohème à n’importe quel intérieur.
+        Les fleurs sont un classique indémodable. Vous pouvez choisir les fleurs préférées de votre maman / papa / ami(e) / collègue etc ou opter pour une composition florale spéciale en choisissant des fleurs aux couleurs assorties à son intérieur. Vous trouverez votre bonheur chez la merveilleuse fleuriste Les Fleurs de Fany situé au 24 rue des Bouchers à Lille. Et pourquoi ne pas opter également pour un bouquet de fleurs séchées ? C’est un choix tendance qui offre un style bohème à n’importe quel intérieur. 
   </p>
 </div>
 
@@ -91,7 +91,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Vous pouvez organiser une journée spéciale où vous faites une activité qu’elle n’a jamais pris le temps de faire comme la poterie. Vous pourrez ainsi travailler l’argile, la porcelaine, le grès, la faïence ou la porcelaine !  En plus de passez du temps ensemble, vous apprendrez un nouvel art et vous conserverez en souvenir votre réalisation. Il existe un peu partout en France des stages avec ateliers thématiques.
+        Vous pouvez organiser une journée spéciale où vous faites une activité qu’elle n’a jamais pris le temps de faire comme la poterie. Vous pourrez ainsi travailler l’argile, la porcelaine, le grès, la faïence ou la porcelaine !  En plus de passez du temps ensemble, vous apprendrez un nouvel art et vous conserverez en souvenir votre réalisation. Sans aucune hésitation, rendez-vous chez Atelier Polette basé au 103 rue Gaston Baratte à Villeneuve d'Ascq !
   </p>
 </div>
 
@@ -110,7 +110,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Vous connaissez mon addiction pour les luminaires : suspension, lampe sur pied, applique ou encore lampe de table ! Je trouve qu’ils donnent véritablement une âme à n’importe quel intérieur. Alors pourquoi ne pas offrir une petite lampe pleine de caractère ? La lampe Nesso coche toutes les cases ! Artémide la réédite (pour la petite histoire cette lampe a été créée par Giancarlo Mattioli avec son groupe Gruppo architetti urbanisti città nuova en 1967 ). Cette lampe au style rétro et au design très pop en forme de champignon diffuse une lumière qui n’éblouit pas les yeux. La lampe Nesso est intemporelle et est parfaite sur une table de chevet, sur un bureau, ou tout autre endroit de la maison.
+        Vous connaissez mon addiction pour les luminaires : suspension, lampe sur pied, applique ou encore lampe de table ! Je trouve qu’ils donnent véritablement une âme à n’importe quel intérieur. La sélection chez Momentum design store (42 rue des trois Molettes à Lille) vous séduira à coup sûr. Pourquoi ne pas offrir une petite lampe pleine de caractère ? La lampe Nesso coche toutes les cases ! Artémide la réédite (pour la petite histoire cette lampe a été créée par Giancarlo Mattioli avec son groupe Gruppo architetti urbanisti città nuova en 1967 ). Cette lampe au style rétro et au design très pop en forme de champignon diffuse une lumière qui n’éblouit pas les yeux. La lampe Nesso est intemporelle et est parfaite sur une table de chevet, sur un bureau, ou tout autre endroit de la maison.
   </p>
 </div>
 
@@ -134,7 +134,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Les bougeoirs sont des éléments décoratifs très polyvalents qui ajoutent une touche d’élégance, de chaleur et d’apaisement à n’importe quelle pièce. Le bougeoir selon moi qui peut être une véritable pièce maîtresse décorative est le bougeoir Nagel de STOFF créé dans les années 60.  C’est un véritable classique du design. Son design unique est un design empilable, permettant des combinaisons et des possibilités infinies. Il est aujourd’hui disponible dans différentes finitions.
+        Les bougeoirs sont des éléments décoratifs très polyvalents qui ajoutent une touche d’élégance, de chaleur et d’apaisement à n’importe quelle pièce. Le bougeoir selon moi qui peut être une véritable pièce maîtresse décorative est le bougeoir Nagel de STOFF créé dans les années 60.  C’est un véritable classique du design. Son design unique est un design empilable, permettant des combinaisons et des possibilités infinies. Il est aujourd’hui disponible dans différentes finitions chez Memento Mori, qui est un véritable cabinet de curiosités contemporain, installé au 122 rue Esquermoise à Lille.
   </p>
 </div>
 
@@ -157,7 +157,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Et oui elle n’est plus exclusivement de sortie pour faire la fête. La boule à facettes a fait son grand retour depuis quelques temps en tant que véritable accessoire décoratif et on ne lasse pas de ses effets lumineux au moindre rayon de soleil.
+        Et oui elle n’est plus exclusivement de sortie pour faire la fête. La boule à facettes a fait son grand retour depuis quelques temps en tant que véritable accessoire décoratif et on ne lasse pas de ses effets lumineux au moindre rayon de soleil. Vous en trouverez facilement dans les deux boutiques "Atelier Mama Oh" (57 rue des Arts à Lille et 62 rue Franflin Roosevelt à Mouvaux).
   </p>
 </div>
 
@@ -181,7 +181,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Un plateau pour pouvoir prendre son thé/tisane/café accompagné d’une douceur pour pouvoir chiller sur son canapé ou son transat en fonction des saisons. En plus d’être fonctionnel, un plateau peut avoir sa place dans tout type de décor intérieur. Il existe des plateaux de toute taille et de matériaux et offrent une grande variété de styles et de couleur.
+        Un plateau pour pouvoir prendre son thé/tisane/café accompagné d’une douceur pour pouvoir chiller sur son canapé ou son transat en fonction des saisons. En plus d’être fonctionnel, un plateau peut avoir sa place dans tout type de décor intérieur. Il existe des plateaux de toute taille et de matériaux et offrent une grande variété de styles et de couleur. Ellen Desforges située au 28 rue de la Monnaie à Lille est un véritable incontournable lillois. Elle présente un large choix de produits au coeur du Vieux Lille depuis plus de 40 ans.
   </p>
 </div>
 
