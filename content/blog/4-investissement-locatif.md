@@ -21,13 +21,13 @@ categories:
 
 <div>
     <h2 style="text-align: center;">
-        CONSEILS DECO
+        INVESTISSEMENT LOCATIF LILLE et métropole : conseils d'une décoratrice d'intérieur
     </h2>
 </div>
 
 <div>
     <p style="text-align: justify;">
-        La décoration est un point important de l’investissement locatif, notamment si vous prévoyez de louer votre logement en meublé. "En tant que décoratrice d'intérieur à Lille, j'ai accompagné mes clients pour leur bien loué en AIRBNB à Lille. Voici ce que le travail de décoration d'intérieur peut apporter à votre projet locatif à Lille et ailleurs :"
+        La décoration est un point important de l’investissement locatif, notamment si vous prévoyez de louer votre logement en meublé. En tant que décoratrice d'intérieur à Lille et la métropole lilloise (Lambersart, Bondues, Marcq-en-Barœul, Villeneuve-d’Ascq…), j'ai accompagné mes clients pour leur bien loué en AIRBNB à Lille dans le Vieux-Lille. Voici ce que le travail de décoration d'intérieur peut apporter à votre projet locatif :
   </p>
 </div>
 
@@ -45,7 +45,7 @@ categories:
 
 <div>
     <h3>
-        Susciter l’intérêt
+        Susciter l’intérêt des locataires à Lille
     </h3>
 </div>
 
@@ -54,7 +54,7 @@ categories:
         Au même titre qu’une résidence principale, un bien en location meublée doit également être agréable à vivre. Pour attirer des locataires, il faut faire en sorte qu’il donne envie dès le premier regard, que le locataire puisse s’y projeter et ainsi avoir un « coup de cœur ». Pour cela, la décoration joue un rôle primordial. 
     </p>
     <p style="text-align: justify;">
-        Je vous recommande d’instaurer une décoration sobre pour permettre à tous les profils de locataires de s’y projeter tout en choisissant certains partis pris décoratifs forts (papier peint, couleur …)  pour marquer les esprits et vous démarquer.
+        Je vous recommande d’instaurer une décoration sobre pour permettre à tous les profils de locataires de s’y projeter tout en choisissant certains partis pris décoratifs forts (papier peint, couleur …)  pour marquer les esprits et vous démarquer. Pa rexemple, vous pourrez mettre en place une palette neutre + un mur vert profond dans le salon, une tête de lit en bois, une suspension design au-dessus de la table…
     </p>
 </div>
 
@@ -72,7 +72,7 @@ categories:
 
 <div>
     <h3>
-        Justifier le prix de location
+        Justifier le prix de location dans la métropole lilloise
     </h3>
 </div>
 
@@ -102,7 +102,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Lors de la revente de votre bien, les aménagements et la décoration augmenteront de manière conséquente sa valeur.
+        Lors de la revente de votre bien, les aménagements et la décoration augmenteront de manière conséquente sa valeur. Dans un secteur immobilier tendu sur Lille et les villes limitrophes telles que Villeneuve d'Ascq et la Pévèle (Sainghin-en-Mélantois, Templeuve-en-Pévèle, Cysoing, ...), Marcq-en-Baroeul, La Madeleine, Mouvaux, ... cela peut faire réellement la différence.
   </p>
 </div>
 
@@ -112,7 +112,7 @@ categories:
 </div>
 
 <h3 style="text-align: justify;">
-    Alors comment vous y prendre pour <strong>décorer votre bien en investissement locatif</strong> ?
+    Alors comment vous y prendre pour <strong>décorer votre bien en investissement locatif à Lille et la métropole lilloise </strong> ?
 </h3>
 </br>
 {{< /simple_html >}}
@@ -130,7 +130,7 @@ categories:
 <div>
     <p style="text-align: justify;">
         Privilégiez le mobilier simple d’utilisation, facile à entretenir et durable dans le temps.
-Ne négligez pas le plan de travail de la cuisine sans oublier le mobilier de la salle de bain, intégrez des rangements et des luminaires pour obtenir une ambiance chaleureuse.
+Ne négligez pas le plan de travail de la cuisine sans oublier le mobilier de la salle de bain, intégrez des rangements (placard d’entrée, dressing compact, meubles avec tiroirs) et des luminaires (suspension principale, lampes de chevet, lampe de bureau) pour obtenir une ambiance chaleureuse.
   </p>
 </div>
 
