@@ -1,5 +1,5 @@
 ---
-title: "Quelques conseils avant de rénover votre maison"
+title: "Conseils d'une architecte d'intérieur et décoratrice à Lille avant de rénover votre maison"
 description: ""
 date: 2023-11-14T14:35:55.119Z
 preview: /images/blog/article8/1-photos-travaux.webp
