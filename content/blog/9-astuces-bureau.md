@@ -1,5 +1,5 @@
 ---
-title: 3 astuces pour aménager votre bureau
+title: 3 astuces d'une décoratrice d'intérieur à Lille pour aménager votre bureau
 description: ""
 date: 2023-11-13T14:35:55.119Z
 preview: /images/blog/article9/1-conseil.webp
