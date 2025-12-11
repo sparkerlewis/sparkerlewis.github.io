@@ -21,7 +21,7 @@ categories:
 
 <div>
     <h2 style="text-align: center;">
-        Des conseils pour vos travaux
+        Des conseils par une architecte d'intérieur et décoratrice à Lille et ses environs (Lambersart, Marcq-en-Baroeul, Bondues, Villeneuve d'Ascq ...) pour vos travaux
     </h2>
 </div>
 
