@@ -11,6 +11,8 @@ categories: []
 
 {{< simple_html >}}
 
+<p style="text-align: center;"> Vous souhaitez faire appel à un <a href= "https://interieurdeco.fr/">professionnel en décoration d’intérieur à Lille</a> et alentours pour vos locaux, un bureau ou un espace d’accueil ? Découvrez mes prestations dédiées aux pros et l’accompagnement que je propose en tant que professionnel en décoration d’intérieur, pour créer un lieu cohérent, agréable et adapté à votre activité.</p>
+
 <blockquote>
   <p style="text-align: center;">Mon ambition : vous créer une identité visuelle et valoriser l’esprit de vos espaces.</p>
 </blockquote>
