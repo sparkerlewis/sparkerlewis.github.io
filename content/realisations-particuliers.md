@@ -10,7 +10,7 @@ categories: []
 
 {{< simple_html >}}
 
-<p align="justify">Pour vous aider à vous projeter, je partage une sélection de projets déjà réalisés. Vous pouvez découvrir mes réalisations en tant que <a href="https://interieurdeco.fr/">décoratrice d’intérieur à Lille</a> : des intérieurs pensés pour être chaleureux et fonctionnels, faciles à vivre au quotidien, avec des choix d’aménagement et de décoration adaptés à chaque lieu.</p>
+<p style="text-align: center;">Pour vous aider à vous projeter, je partage une sélection de projets déjà réalisés. Vous pouvez découvrir mes réalisations en tant que <a href="https://interieurdeco.fr/">décoratrice d’intérieur à Lille</a> : des intérieurs pensés pour être chaleureux et fonctionnels, faciles à vivre au quotidien, avec des choix d’aménagement et de décoration adaptés à chaque lieu.</p>
 
 <blockquote>
 <p style="text-align: center;">La beauté est dans le regard de celui qui regarde, Oscar Wilde</p>
