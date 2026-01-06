@@ -60,7 +60,7 @@ title = "Contact"
 
 [params.one]
 enable = true
-title = 'Besoin d’un conseil en décoration dans le Nord ou ailleurs ? '
+title = 'Besoin d’un conseil professionel en décoration d'intérieur dans le Nord ou ailleurs ? '
 title2 = ' Un projet de rénovation ? '
 body = '''
 Transformez votre intérieur avec Intérieur Déco, votre décoratrice d’intérieur à Lille. Spécialiste de la conception, de l’aménagement et de la décoration d’espaces, j’imagine pour vous des ambiances uniques, chaleureuses et parfaitement adaptées à votre mode de vie.
@@ -87,7 +87,7 @@ body = 'Chaque projet est une alliance entre **esthétisme** et **fonctionnalit�
 [params.video]
 url = 'https://www.youtube.com/embed/QcKUNv8OBGQ'
 title = 'On parle de Intérieur Déco !'
-body = ''
+body = 'Découvrez mon univers et ma manière de concevoir chaque projet, que ce soit pour une rénovation, un réaménagement ou un simple conseil en décoration. '
 
 [params.three]
 enable = true
@@ -147,6 +147,7 @@ special = false
 enable = true
 title = "Contactez-moi"
 body = '''
+<p class="contact-pretitle"><strong>Votre projet accompagné par une architecte d’intérieur et décoratrice commence ici :</strong></p>
 À distance ou à domicile ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
 Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité. 
