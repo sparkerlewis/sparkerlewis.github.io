@@ -147,7 +147,7 @@ special = false
 enable = true
 title = "Contactez-moi"
 body = '''
-<p class="contact-pretitle"><strong>Votre projet accompagné par une architecte d’intérieur et décoratrice commence ici :</strong></p>
+<h3><strong>Votre projet accompagné par une architecte d’intérieur et décoratrice commence ici :</strong></h3>
 À distance ou à domicile ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
 Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité. 
