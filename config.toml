@@ -86,7 +86,7 @@ body = 'Chaque projet est une alliance entre **esthétisme** et **fonctionnalit�
 
 [params.video]
 url = 'https://www.youtube.com/embed/QcKUNv8OBGQ'
-title = 'On parle de Intérieur Déco !!'
+title = 'On parle de Intérieur Déco !'
 body = "Découvrez mon univers et ma manière de concevoir chaque projet, que ce soit pour une rénovation, un réaménagement ou un simple conseil en décoration."
 
 [params.three]
@@ -145,7 +145,7 @@ special = false
 
 [params.contact]
 enable = true
-title = "Contactez-moi"
+title = "Votre projet accompagné par une architecte d’intérieur et décoratrice commence ici :<br><br>Contactez-moi"
 body = '''
 À distance ou à domicile ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
