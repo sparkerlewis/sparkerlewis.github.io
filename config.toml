@@ -87,7 +87,7 @@ body = 'Chaque projet est une alliance entre **esthétisme** et **fonctionnalit�
 [params.video]
 url = 'https://www.youtube.com/embed/QcKUNv8OBGQ'
 title = 'On parle de Intérieur Déco !'
-body = 'Découvrez mon univers et ma manière de concevoir chaque projet, que ce soit pour une rénovation, un réaménagement ou un simple conseil en décoration. '
+body = "Découvrez mon univers et ma manière de concevoir chaque projet, que ce soit pour une rénovation, un réaménagement ou un simple conseil en décoration."
 
 [params.three]
 enable = true
@@ -147,8 +147,7 @@ special = false
 enable = true
 title = "Contactez-moi"
 body = '''
-<h3><strong>Votre projet accompagné par une architecte d’intérieur et décoratrice commence ici :</strong></h3>
-À distance ou à domicile ? </br>
+À distance ou à domicile à Lille ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
 Par email, au téléphone, en visio : la distance n’est pas un frein à mon activité. 
 Découvrez dès maintenant mes prestations et <a href="https://interieurdeco.fr/prestation-particulier/">tarifs de décoratrice d’intérieur</a> adaptés à votre projet et à votre budget.
