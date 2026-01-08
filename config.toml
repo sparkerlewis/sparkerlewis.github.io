@@ -145,7 +145,7 @@ special = false
 
 [params.contact]
 enable = true
-title = """Votre projet accompagné par une architecte d’intérieur et décoratrice commence par me contacter ici :"""
+title = """Votre projet accompagné par une architecte d’intérieur et décoratrice commence <a href="https://interieurdeco.fr/contact/">ICI</a> :"""
 body = '''
 À distance ou à domicile ? </br>
 Je suis basée en Métropole Lilloise. Ce n’est pas le cas de votre projet ? J’ai la solution ! 
