@@ -199,7 +199,7 @@ categories:
 
 <div>
     <p style="text-align: justify;">
-        Vous devez le savoir, un design bien réalisé peut améliorer votre vie, mais aussi <a href="https://interieurdeco.fr/blog/4-investissement-locatif/">augmenter la valeur de votre bien</a>. Engager une architecte d’intérieur et décoratrice ajoute de la valeur à votre propriété en créant un environnement qui améliore votre qualité de vie.  De ce fait, en investissant dans une expertise, vous pouvez créer un intérieur attrayant et fonctionnel. À long terme, cela maximisera le potentiel de revente de votre maison si vous le souhaitez. 
+        Vous devez le savoir, un design bien réalisé peut améliorer votre vie, mais aussi <a href="https://interieurdeco.fr/blog/4-decorer-un-airbnb-lille">augmenter la valeur de votre bien</a>. Engager une architecte d’intérieur et décoratrice ajoute de la valeur à votre propriété en créant un environnement qui améliore votre qualité de vie.  De ce fait, en investissant dans une expertise, vous pouvez créer un intérieur attrayant et fonctionnel. À long terme, cela maximisera le potentiel de revente de votre maison si vous le souhaitez. 
     </p>
 </div>
 
