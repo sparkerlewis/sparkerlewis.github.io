@@ -14,6 +14,10 @@
             <p>{{ .title | safeHTML }}</p>
             <h2>Optimiser, aménager et décorer</h2>
             {{ partial "body_text.html" (dict "context" . "md" $md) }}
+            <div class="projet-button">
+                <a href="https://interieurdeco.fr/realisations-particuliers/" class="button mission-projet-btn">Voir mes projets</a>
+            </div>
+            <br>
         </div>
     </section>
     {{ end }}
