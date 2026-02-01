@@ -1,16 +1,20 @@
 /* Style for overlay "realisations particuliers" */
-.gallery-grid { display: block; }
+.gallery-grid {
+    display: block;
+}
+
 .thumbnail-container {
     position: relative;
     display: inline-block;
     margin: 10px;
     max-width: 350px;
 }
+
 .blog-link {
     position: absolute;
     bottom: 15px;
     right: 15px;
-    background: rgba(255,255,255,0.9);
+    background: rgba(255, 255, 255, 0.9);
     color: #333;
     padding: 8px 12px;
     border-radius: 20px;
@@ -19,21 +23,28 @@
     text-decoration: none;
     opacity: 0;
     transition: all 0.3s ease;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     z-index: 10;
 }
+
 .thumbnail-container:hover .blog-link {
     opacity: 1;
     transform: translateY(-2px);
 }
-.blog-link:hover { background: #fff; }
+
+.blog-link:hover {
+    background: #fff;
+}
+
 img {
     transition: transform 0.3s ease;
     display: block;
 }
+
 .thumbnail-container:hover img {
     transform: scale(1.02);
 }
+
 /* --------------------------------------------- */
 .button.primary {
     background-color: #bf9325;
@@ -59,19 +70,25 @@ button.primary:hover,
 #ma_mission_photo .projet-button a.mission-projet-btn,
 #ma_mission_photo .mission-projet-btn {
     font-family: 'Glacial Indifference', serif !important;
-    align-items: center !important;         /* ← CENTRE VERTICAL */
-    justify-content: center !important;     /* ← CENTRE HORIZONTAL */
+    align-items: center !important;
+    /* ← CENTRE VERTICAL */
+    justify-content: center !important;
+    /* ← CENTRE HORIZONTAL */
     padding: 12px 24px !important;
-    background: #ffffff !important;         /* Fond blanc */
-    color: #d4a73c !important;              /* Texte or */
+    background: #ffffff !important;
+    /* Fond blanc */
+    color: #d4a73c !important;
+    /* Texte or */
     text-decoration: none !important;
     border-radius: 4px !important;
     font-weight: 600 !important;
     letter-spacing: 0.05em !important;
-    border: none !important;                /* ← PAS DE CONTOUR */
+    border: none !important;
+    /* ← PAS DE CONTOUR */
     transition: all 0.3s ease !important;
     cursor: pointer !important;
-    line-height: 1.4 !important;            /* ← AMELIORE ALIGNEMENT */
+    line-height: 1.4 !important;
+    /* ← AMELIORE ALIGNEMENT */
     font-size: 13px !important;
 }
 
@@ -90,6 +107,7 @@ button.primary:hover,
         text-align: center;
     }
 }
+
 /* FIN - Bouton "Voir mes projets" */
 
 #ma_mission_photo h2 {
@@ -155,7 +173,8 @@ blockquote {
     color: #242424;
     font-family: "georgia";
     font-size: 20px;
-    letter-spacing: 0.11em;;
+    letter-spacing: 0.11em;
+    ;
 }
 
 @media (min-width: 601px) {
@@ -359,6 +378,7 @@ h6 {
     text-transform: none;
     font-family: 'Glacial Indifference';
 }
+
 #private_service p {
     font-family: 'Glacial Indifference';
 }
@@ -400,6 +420,10 @@ h6 {
     min-width: 300px;
 }
 
+.intervention-list {
+    font-size: 12px;
+}
+
 @media screen and (max-width: 600px) {
     .termsfeed-com---nb-simple {
         max-height: 30%;
@@ -416,6 +440,7 @@ h6 {
         max-width: 600px;
         height: 315px;
         width: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -425,6 +450,7 @@ h6 {
         max-width: 600px;
         height: 215px;
         width: 100%;
+        margin: 0 auto;
     }
 }
 
