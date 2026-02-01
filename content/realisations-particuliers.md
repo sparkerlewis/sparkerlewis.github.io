@@ -39,6 +39,10 @@ categories: []
             <img  width="350" height="430" src="/images/realisations-particuliers/salle d'eau bondues.webp" alt="salle d'eau bondues">
         </a></br></br>
 
+        <a href="/images/realisations-particuliers/salle a manger terracotta Templemars.webp" data-lightbox="images" data-title="salle à manger terracotta Templemars">
+            <img  width="350" height="430" src="/images/realisations-particuliers/salle a manger terracotta Templemars.webp" alt="salle à manger terracotta Templemars">
+        </a></br></br>
+
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
@@ -63,6 +67,9 @@ categories: []
             <img  width="350" height="430" src="/images/realisations-particuliers/piece de vie autour de la cheminee Lesquin.webp" alt="piece de vie autour de la cheminee Lesquin">
         </a></br></br>
 
+        <a href="/images/realisations-particuliers/Salon lumineux aux tons naturels Wannehain.webp" data-lightbox="images" data-title="Salon lumineux aux tons naturels Wannehain">
+            <img  width="350" height="430" src="/images/realisations-particuliers/Salon lumineux aux tons naturels Wannehain.webp" alt="Salon lumineux aux tons naturels Wannehain">
+        </a></br></br>
     </div>
   </div>
 
