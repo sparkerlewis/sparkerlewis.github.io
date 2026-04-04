@@ -8,7 +8,7 @@ tags:
   - portrait
 categories:
   - à propos de moi
-slug: qui-suis-je
+slug: decoratrice-interieur-lille
 ---
 
 
