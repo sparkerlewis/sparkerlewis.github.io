@@ -22,7 +22,7 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/qui-suis-je'
+url = '/decoratrice-interieur-lille'
 title = "Qui suis-je ?"
 
 [[params.menu.main]]
@@ -52,6 +52,10 @@ title = "Blog"
 [[params.menu.main]]
 url = '/contact'
 title = "Contact"
+
+[[params.menu.main]]
+url = '/footer/faq-decoratrice-interieur-lille'
+title = "FAQ"
 
 [taxonomies]
     tag = "tags"
@@ -134,7 +138,7 @@ Découvrez comment je peux transformer vos espaces de la conception à la sélec
 
 
 [[params.cta.link]]
-href = "/qui-suis-je"
+href = "/decoratrice-interieur-lille"
 text = "Qui suis-je ?"
 special = true
 
