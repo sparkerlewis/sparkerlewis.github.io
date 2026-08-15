@@ -1,6 +1,7 @@
 ---
 title: Les règles à respecter pour choisir les couleurs
-description: ""
+description: "Comment choisir les couleurs de votre intérieur ? Règles et conseils d'une décoratrice d'intérieur à Lille pour harmoniser vos teintes et créer une ambiance."
+summary: "Choisir les couleurs de votre intérieur semble souvent intuitif, mais en pratique, quelques règles simples permettent d'éviter les faux pas et d'obtenir une décoration cohérente, élégante et agréable à vivre. Avant de vous précipiter sur un nuancier, prenez le temps de comprendre comment les couleurs influencent la lumière et l'atmosphère."
 date: 2025-11-13T12:00:00+02:00
 preview: /images/blog/article14/1-choisir-les-couleurs.jpg
 draft: false

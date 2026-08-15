@@ -1,6 +1,7 @@
 ---
 title: Les règles de base de la décoration intérieure
-description: ""
+description: "Les règles de base de la décoration intérieure : aménagement, couleurs et mobilier. Conseils d'une décoratrice d'intérieur à Lille pour un intérieur harmonieux."
+summary: "Aménager son intérieur est souvent une étape excitante, mais aussi source d'hésitations. Comment créer une pièce agréable sans se tromper dans les choix de couleurs, de mobilier ou de style ? La décoration repose sur quelques principes simples qui, une fois maîtrisés, transforment un espace ordinaire en un lieu harmonieux et accueillant."
 date: 2025-09-07T12:00:00+02:00
 preview: /images/blog/article12/1-regles-de-base.jpg
 draft: false

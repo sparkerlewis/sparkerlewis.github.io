@@ -1,6 +1,7 @@
 ---
 title: Décoration et bien être au travail
-description: ""
+description: "Le bien-être au travail passe par un aménagement réfléchi des espaces. Conseils d'une architecte d'intérieur à Lille pour des lieux de travail inspirants."
+summary: "Construire une politique de bien-être au travail permet de réduire les risques psychosociaux et d'agir sur le climat collectif et la motivation. C'est pourquoi il est essentiel que les lieux de travail soient des lieux où les salariés se sentent bien. Découvrez comment l'aménagement d'intérieur peut y contribuer."
 date: 2023-11-17T14:35:55.119Z
 preview: /images/blog/article5/1-lieu_travail.webp
 draft: false

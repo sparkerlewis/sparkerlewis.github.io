@@ -1,6 +1,7 @@
 ---
 title: Des idées cadeaux déco à Lille et la métropoloe lilloise
-description: ""
+description: "Sélection d'idées cadeaux déco à Lille et dans la métropole lilloise. Bonnes adresses de boutiques déco pour tous les budgets par une décoratrice d'intérieur."
+summary: "Il existe de nombreuses options de cadeaux pour la fête des mères, fête des pères, anniversaires, pendaison de crémaillère ou encore Noël. En tant que décoratrice d'intérieur à Lille, je vous propose une sélection d'idées cadeaux déco pour tous les budgets, avec quelques boutiques déco chouettes à Lille et dans la métropole lilloise."
 date: 2023-11-20T14:35:55.119Z
 preview: /images/blog/article2/1-bouquet-scaled.webp
 draft: false

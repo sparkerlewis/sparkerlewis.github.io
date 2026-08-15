@@ -158,7 +158,7 @@ Découvrez dès maintenant mes prestations et <a href="https://interieurdeco.fr/
 Contactez-moi pour en savoir plus et pour toute demande de devis.
 '''
 phone = "06 74 60 27 06"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+address = "Lille, Métropole Lilloise<br />Nord, Hauts-de-France<br />France"
 email = "contact@interieurdeco.fr"
 subject = "Nouvelle demande!"
 formspree_form_id = "example_invalid"

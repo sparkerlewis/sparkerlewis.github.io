@@ -1,6 +1,7 @@
 ---
 title: "Avant Après : Transformation d'une maison à Ronchin"
-description: ""
+description: "Avant/après : transformation d'une maison à Ronchin par une décoratrice d'intérieur. Du brief client à la réalisation, découvrez mon accompagnement complet."
+summary: "Vous cherchez des idées pour transformer votre salon ou votre salle à manger ? Découvrez un avant/après décoration complet. Mes clients ont fait appel à moi après avoir acquis cette maison à Ronchin, près de Lille. Je vous présente l'ensemble de mon accompagnement, du premier rendez-vous au résultat final."
 date: 2023-11-15T14:35:55.119Z
 preview: /images/blog/article7/1-piece-a-vivre.webp
 draft: false

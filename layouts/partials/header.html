@@ -7,15 +7,7 @@
 <html lang="{{ .Site.Language.Lang | default " en-us" }}">
 
 <head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2PTW0PVEC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-S2PTW0PVEC');
-</script>
+    <!-- Google analytics (with cookie consent) -->
     <title>{{ .Title }}</title>
     <meta charset="utf-8">
     <meta name="google-site-verification" content="Svq8ECpUIAMl_QIDxvcetqrn1FcsDobNu_dfpXuLoGw" />
@@ -24,8 +16,11 @@
 
     {{ template "_internal/google_analytics.html" . }}
 
-    {{ with .Site.Params.description }}
-    <meta name="description" content="{{ . | plainify }}">{{ end }}
+    {{ with .Description }}
+    <meta name="description" content="{{ . | plainify }}">
+    {{ else }}
+    <meta name="description" content="{{ .Site.Params.description | plainify }}">
+    {{ end }}
     {{ with .Site.Params.author }}
     <meta name="author" content="{{ . }}">{{ end }}
     {{ range .AlternativeOutputFormats -}}
@@ -45,7 +40,7 @@
     {{ $light := resources.Get "css/lightbox.min.css" | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $light.RelPermalink }}" integrity="{{ $light.Data.Integrity }}">
 
-    <link rel="canonical" href="https://interieurdeco.fr">
+    <link rel="canonical" href="{{ .Permalink }}">
     <meta name="keywords"
         content="rénovation Lille, architecte d'intérieur Lille, conception d'espace Hauts-de-France, design d'intérieur Nord">
 
@@ -56,11 +51,167 @@
     <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon/favicon.ico">
 
+    {{ with .Params.preview }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    {{ else }}
     <meta property="og:image" content="https://interieurdeco.fr/images/logo.jpg">
+    {{ end }}
+    {{ with .Description }}
+    <meta property="og:description" content="{{ . | plainify }}">
+    {{ else }}
     <meta property="og:description"
         content="Architecte d'intérieur basé sur Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget">
-    <meta property="og:url" content="https://interieurdeco.fr">
+    {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}">
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Intérieur Déco",
+      "description": "Architecte d'intérieur et décoratrice à Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget.",
+      "url": "https://interieurdeco.fr",
+      "telephone": "+33674602706",
+      "email": "contact@interieurdeco.fr",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lille",
+        "addressRegion": "Hauts-de-France",
+        "addressCountry": "FR"
+      },
+      "areaServed": "Lille, Métropole Lilloise, Nord, Hauts-de-France",
+      "founder": {
+        "@type": "Person",
+        "name": "Manuela Faisca"
+      }
+    }
+    </script>
+
+    {{ if and (eq .Section "blog") (.IsPage) }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{ .Title }}",
+      "description": "{{ .Description }}",
+      "datePublished": "{{ .Date.Format "2006-01-02" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+      "url": "{{ .Permalink }}",
+      "author": {
+        "@type": "Person",
+        "name": "Manuela Faisca"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Intérieur Déco",
+        "url": "https://interieurdeco.fr"
+      }
+      {{ with .Params.preview }}
+      ,
+      "image": "{{ . | absURL }}"
+      {{ end }}
+    }
+    </script>
+    {{ end }}
+
+    {{ if eq .Params.slug "faq-decoratrice-interieur-lille" }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Pourquoi faire appel à une décoratrice d'intérieur à Lille ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un accompagnement sur mesure permet de penser l'espace intelligemment : conseil déco personnalisé, aménagement d'espaces, choix des couleurs, matériaux et mobilier, optimisation des volumes et de la lumière, création de rangements sur mesure et suivi de projet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Travaillez-vous uniquement à Lille et alentours ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "J'interviens à Lille, Marcq-en-Barœul, Lambersart, La Madeleine, Bondues, Wambrechies, Roubaix, Tourcoing, Villeneuve-d'Ascq et toute la métropole lilloise. Je propose également des prestations de décoration d'intérieur à distance partout en France."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Proposez-vous du coaching déco à Lille et à distance ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, je propose du coaching déco à Lille, dans la métropole lilloise ainsi qu'en ligne. Vous bénéficiez de conseils personnalisés, planches d'ambiance et solutions concrètes pour transformer votre intérieur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Intervenez-vous pour l'aménagement de bureaux et cabinets professionnels à Lille ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, j'accompagne les professionnels de Lille et de la métropole lilloise dans la décoration de bureaux, cabinets d'avocats, salles d'attente et espaces de travail pour créer des lieux accueillants et cohérents avec leur image de marque."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est le tarif de la prestation d'une décoratrice d'intérieur à Lille ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le prix dépend de la prestation : le coaching déco est un forfait fixe de 250€ TTC, la sélection déco à partir de 60€ TTC, et l'étude complète fait l'objet d'un devis personnalisé selon la surface et la complexité."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps dure un projet de décoration d'intérieur ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un coaching déco peut être réalisé en quelques jours. Un projet de décoration complet dans la métropole lilloise peut s'étendre sur plusieurs semaines selon la surface et la complexité du projet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment se déroule un rendez-vous de coaching déco ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le coaching déco est une séance de conseil à domicile ou en visio. Durant 1h à 1h30, nous analysons votre problématique : réorganisation de l'espace, choix d'une palette de couleurs, shopping list ou optimisation de la lumière. Vous repartez avec des solutions concrètes et immédiatement applicables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Proposez-vous des visuels 3D pour se projeter ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, pour les projets d'aménagement et de décoration, de rénovation ou d'aménagement de mobilier, je réalise des vues 3D. Cela vous permet de visualiser votre futur intérieur, de valider l'implantation et les choix de matériaux avant de lancer les travaux."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Travaillez-vous avec des artisans locaux ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au fil des années à Lille, j'ai tissé un réseau de partenaires de confiance (peintres, menuisiers, électriciens). Si vous n'avez pas vos propres artisans, je peux vous mettre en relation avec des professionnels qualifiés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pour quels types d'espaces intervenez-vous ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "J'interviens pour l'aménagement et la décoration de cuisine, salle de bain, salon et salle à manger, chambres, appartements, maisons et bureaux."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment obtenir un devis ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Contactez Intérieur Déco pour un devis personnalisé par téléphone au 06.74.60.27.06 ou par mail à contact@interieurdeco.fr. Intervention à Lille et métropole lilloise."
+          }
+        }
+      ]
+    }
+    </script>
+    {{ end }}
 
 </head>
 

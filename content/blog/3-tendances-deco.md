@@ -1,6 +1,7 @@
 ---
 title: Tendances déco de l’année
-description: ""
+description: "Découvrez les tendances déco de l'année : couleurs, matériaux et styles à adopter. Conseils d'une décoratrice d'intérieur à Lille pour un intérieur tendance."
+summary: "Les tendances déco de l'année sont axées sur la simplicité, la nature et la durabilité. Voici quelques tendances à adopter pour donner un coup de neuf à votre intérieur, avec mes conseils de décoratrice d'intérieur à Lille."
 date: 2023-11-19T14:35:55.119Z
 preview: /images/blog/article3/1-tendances-deco-scaled.webp
 draft: false

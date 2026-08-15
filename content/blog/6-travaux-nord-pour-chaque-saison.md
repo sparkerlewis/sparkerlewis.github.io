@@ -1,6 +1,7 @@
 ---
 title: Des travaux pour chaque saison
-description: ""
+description: "Calendrier des travaux saisonniers pour optimiser vos rénovations dans le Nord. Conseils d'une décoratrice d'intérieur à Lille pour planifier vos aménagements."
+summary: "Pour chaque type de travaux, il y a une saison idéale, qui vous permet de les réaliser dans des conditions optimales et d'en profiter pleinement le moment venu. Découvrez mon calendrier des travaux pour mieux préparer vos rénovations, aménagements et constructions."
 date: 2023-11-16T14:35:55.119Z
 preview: /images/blog/article6/1-travaux.webp
 draft: false

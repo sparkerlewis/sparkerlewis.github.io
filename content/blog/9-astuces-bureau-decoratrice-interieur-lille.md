@@ -1,6 +1,7 @@
 ---
 title: 3 astuces d'une décoratrice d'intérieur à Lille pour aménager votre bureau
-description: ""
+description: "3 astuces d'une décoratrice d'intérieur à Lille pour aménager votre bureau à domicile : mobilier adapté, éclairage et organisation pour télétravailler confortablement."
+summary: "Voici quelques conseils pour aménager votre bureau, quelque soit votre budget. Le télétravail est devenu courant, et nous sommes nombreux à créer ou revoir l'aménagement d'un bureau pour ne plus devoir travailler sur la table de la cuisine. Découvrez mes astuces de décoratrice d'intérieur à Lille."
 date: 2023-11-13T14:35:55.119Z
 preview: /images/blog/article9/1-conseil.webp
 draft: false

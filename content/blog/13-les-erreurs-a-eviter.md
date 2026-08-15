@@ -1,6 +1,7 @@
 ---
 title: Les erreurs à éviter quand on se lance dans un projet de rénovation
-description: ""
+description: "Les erreurs à éviter dans un projet de rénovation : planification, budget, choix des matériaux. Conseils d'une architecte d'intérieur à Lille pour réussir vos travaux."
+summary: "Se lancer dans un projet de rénovation est souvent une aventure enthousiasmante : transformer un bien ancien, redonner vie à une pièce, moderniser un espace. Cependant, sans une préparation rigoureuse, l'expérience peut rapidement se transformer en source de stress et de dépenses imprévues. Voici les principales erreurs à ne pas commettre."
 date: 2025-10-21T12:00:00+02:00
 preview: /images/blog/article13/1-erreurs-a-eviter.jpg
 draft: false

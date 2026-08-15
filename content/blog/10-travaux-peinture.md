@@ -1,6 +1,7 @@
 ---
 title: Réussir vos Travaux de Peinture
-description: ""
+description: "Guide pratique pour réussir vos travaux de peinture : préparation, choix des couleurs et astuces d'une décoratrice d'intérieur à Lille pour un résultat professionnel."
+summary: "Avant de plonger dans des travaux de peinture, il est essentiel de se préparer minutieusement pour garantir un résultat final satisfaisant. Que vous soyez novice ou bricoleur aguerri, ces astuces vous aideront à éviter les écueils courants et à atteindre des résultats professionnels."
 date: 2024-02-28T14:35:55.119Z
 preview: /images/blog/article10/1-peinture.webp
 draft: false

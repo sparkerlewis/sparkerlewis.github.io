@@ -1,6 +1,7 @@
 ---
 title: Pourquoi choisir une architecte d’intérieur ?
-description: ""
+description: "Pourquoi faire appel à une architecte d'intérieur pour rénover ? Découvrez les avantages d'un accompagnement professionnel pour votre projet de décoration à Lille."
+summary: "Faire appel à une architecte d'intérieur et décoratrice pour vous accompagner dans vos travaux de rénovation ou la construction de votre bien peut être une tâche intimidante. Entre les multiples choix à faire, le budget et la peur de ne pas obtenir ce que l'on veut, il est facile de se sentir dépassé. Je vous explique pourquoi cet investissement est rentable."
 date: 2024-08-09T20:35:55.119Z
 preview: /images/blog/article11/1-salon_deco_noir_et_vert.webp
 draft: false

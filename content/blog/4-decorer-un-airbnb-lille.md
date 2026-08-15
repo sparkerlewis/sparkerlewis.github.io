@@ -1,6 +1,7 @@
 ---
 title: Décorer un AIRBNB à Lille
-description: ""
+description: "Conseils d'une décoratrice d'intérieur à Lille pour réussir la décoration de votre Airbnb et valoriser votre investissement locatif avec un aménagement sur-mesure."
+summary: "La décoration est un point important de l'investissement locatif, notamment si vous prévoyez de louer votre logement en meublé. En tant que décoratrice d'intérieur à Lille, j'ai accompagné mes clients pour leur bien loué en Airbnb dans le Vieux-Lille. Voici ce que le travail de décoration d'intérieur peut apporter à votre projet locatif."
 date: 2023-11-18T14:35:55.119Z
 preview: /images/blog/article4/1-conseil.webp
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "Conseils d'une architecte d'intérieur et décoratrice à Lille avant de rénover votre maison"
-description: ""
+description: "Trois conseils essentiels d'une architecte d'intérieur à Lille avant de rénover votre maison. Évitez les erreurs et concrétisez vos idées déco."
+summary: "Vous souhaitez rénover votre bien. Vous avez des idées, plein d'idées qui fusent, mais il est parfois difficile de les mettre en œuvre. Les photos Pinterest ou des magazines font rêver, mais elles ne sont pas toujours réalisables. Voici trois conseils d'une architecte d'intérieur pour vous aider."
 date: 2023-11-14T14:35:55.119Z
 preview: /images/blog/article8/1-photos-travaux.webp
 draft: false

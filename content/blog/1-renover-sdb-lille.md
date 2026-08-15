@@ -1,6 +1,7 @@
 ---
 title: Les étapes pour rénover votre salle de bains
-description: ""
+description: "Guide complet d'une architecte d'intérieur à Lille pour rénover votre salle de bains : étapes, budget, matériaux et conseils pour réussir votre projet."
+summary: "La rénovation d'une salle de bains est un projet passionnant qui peut transformer complètement l'apparence et la fonctionnalité de votre espace. Que vous souhaitiez moderniser une salle de bains démodée ou créer une oasis de détente, une rénovation bien planifiée et exécutée peut faire des merveilles. Dans cet article, je vous présente un guide étape par étape pour vous aider à réussir votre projet."
 date: 2023-11-21T20:35:55.119Z
 preview: /images/blog/article1/1-salle-de-bain-beton-cire.webp
 draft: false

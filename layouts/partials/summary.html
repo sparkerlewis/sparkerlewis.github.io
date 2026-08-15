@@ -13,10 +13,8 @@
             {{ end }}
 
             <div class="content" style="text-align: justify; padding: 0; margin-right: 5%;">
-                <p>{{ .Summary }}</p>
-                {{ if .Truncated }}
+                <p>{{ .Params.summary | default .Description }}</p>
                 <a href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
-                {{ end }}
             </div>
         </section>
 
