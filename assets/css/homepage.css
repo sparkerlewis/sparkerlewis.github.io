@@ -164,24 +164,25 @@
 }
 
 .container-narrow {
-    max-width: 700px;
+    max-width: 720px;
 }
 
 #home-intro .section-title {
-    font-family: "Georgia", serif;
-    font-size: 1.3rem;
+    font-family: var(--font-serif);
+    font-size: 1.6rem;
     font-weight: 500;
     color: var(--color-dark);
     text-align: center;
-    letter-spacing: 0.11em;
-    margin-bottom: 2.5rem;
+    letter-spacing: 0.02em;
+    margin-bottom: 0;
+    line-height: 1.4;
 }
 
-#home-intro .section-intro {
-    font-size: 1.3rem;
-    color: var(--color-dark);
-    font-weight: 500;
-    margin-bottom: 2.5rem;
+#home-intro .title-divider {
+    width: 60px;
+    height: 2px;
+    background: var(--color-gold);
+    margin: 1.5rem auto 3rem;
 }
 
 #home-intro .intro-body {
@@ -189,8 +190,8 @@
     font-size: 1rem;
     font-weight: 300;
     color: var(--color-text);
-    line-height: 1.8;
-    margin-bottom: 1.5rem;
+    line-height: 1.9;
+    margin-bottom: 1.8rem;
     text-align: justify;
 }
 
