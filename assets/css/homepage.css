@@ -503,7 +503,7 @@
 /* ---- Contact ---- */
 
 #home-contact {
-    background: var(--color-cream);
+    background: #ffffff;
     text-align: center;
 }
 
@@ -632,6 +632,32 @@
     .services-grid {
         grid-template-columns: 1fr;
     }
+}
+
+/* ---- Video section ---- */
+
+#home-video {
+    background: var(--color-cream);
+}
+
+.video-caption {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 300;
+    color: var(--color-muted);
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+#home-video .video-intro-text {
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--color-dark);
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3.5rem;
 }
 
 /* ---- About highlights ---- */
