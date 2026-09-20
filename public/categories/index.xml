@@ -1,11 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on </title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<channel>
+		<title>Categories on Architecte, designer et décoratrice d’intérieur Lille : Conseil professionnel en décoration d’intérieur dans le Nord</title>
+		<link>https://interieurdeco.fr/categories/</link>
+		<description>Recent content in Categories on Architecte, designer et décoratrice d’intérieur Lille : Conseil professionnel en décoration d’intérieur dans le Nord</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 04 Apr 2026 15:30:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://interieurdeco.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>À Propos</title>
+				<link>https://interieurdeco.fr/categories/%C3%A0-propos/</link>
+				<pubDate>Sat, 04 Apr 2026 15:30:00 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/%C3%A0-propos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blog</title>
+				<link>https://interieurdeco.fr/categories/blog/</link>
+				<pubDate>Thu, 13 Nov 2025 12:00:00 +0200</pubDate>
+				<guid>https://interieurdeco.fr/categories/blog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Déco</title>
+				<link>https://interieurdeco.fr/categories/d%C3%A9co/</link>
+				<pubDate>Thu, 13 Nov 2025 12:00:00 +0200</pubDate>
+				<guid>https://interieurdeco.fr/categories/d%C3%A9co/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cgp</title>
+				<link>https://interieurdeco.fr/categories/cgp/</link>
+				<pubDate>Mon, 20 Nov 2023 21:50:35 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/cgp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://interieurdeco.fr/categories/contact/</link>
+				<pubDate>Mon, 20 Nov 2023 21:50:35 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/contact/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rgpd</title>
+				<link>https://interieurdeco.fr/categories/rgpd/</link>
+				<pubDate>Mon, 20 Nov 2023 21:50:35 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/rgpd/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Prestation</title>
+				<link>https://interieurdeco.fr/categories/prestation/</link>
+				<pubDate>Mon, 20 Nov 2023 20:09:54 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/prestation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>À Propos De Moi</title>
+				<link>https://interieurdeco.fr/categories/%C3%A0-propos-de-moi/</link>
+				<pubDate>Mon, 20 Nov 2023 11:07:22 +0000</pubDate>
+				<guid>https://interieurdeco.fr/categories/%C3%A0-propos-de-moi/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

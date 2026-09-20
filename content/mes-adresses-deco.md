@@ -35,26 +35,6 @@ categories:
 <div class="flex-container" style="display: flex; flex-wrap: wrap;">
   <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
-        <h2><strong>Blue Cargo</strong></h2>
-        <p align="justify">Une adresse essentielle pour le mobilier et les luminaires. On y trouve plusieurs marques: ETHNICRAFT, FATBOY, …</p>
-        <a href="https://g.page/Bluecargo59?share" target="_blank" rel="noopener">40 rue du Général de Gaulle, La Madeleine</a>
-    </div>
-  </div>
-  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
-    <div>
-         <img style="max-width: 100%;" src="/images/adresses_deco/blue-cargo.jpg" alt="blue-cargo">
-    </div>
-  </div>
-</div>
-
-{{< /simple_html >}}
-
-
-{{< simple_html >}}
-
-<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-  <div class="flex-item" style="flex: 1; margin: 10px; max-width: 450px;">
-    <div>
         <h2><strong>Mouflette</strong></h2>
         <p align="justify">Une boutique au cœur du vieux Lille avec des objets de créateurs pleins de poésie. J’adore !</p>
         <a href="https://goo.gl/maps/cFU4A6wtjqQYP8wX8" target="_blank" rel="noopener"><em>41 rue Basse</em><em>, Lille</em></a>

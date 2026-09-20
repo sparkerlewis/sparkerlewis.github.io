@@ -1,14 +1,273 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>en/sitemap.xml</loc>
-    
-  </sitemap>
   
-  <sitemap>
-    <loc>fr/sitemap.xml</loc>
-    
-  </sitemap>
   
-</sitemapindex>
+  
+  <url>
+    <loc>https://interieurdeco.fr/</loc>
+    <lastmod>2026-04-04T15:30:00Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/footer/faq-decoratrice-interieur-lille/</loc>
+    <lastmod>2026-04-04T15:30:00Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/</loc>
+    <lastmod>2025-11-13T12:00:00Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/14-choisir-les-couleurs/</loc>
+    <lastmod>2025-11-13T12:00:00Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/13-les-erreurs-a-eviter/</loc>
+    <lastmod>2025-10-21T12:00:00Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/12-regles-de-base/</loc>
+    <lastmod>2025-09-07T12:00:00Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/11-pourquoi-architecte-interieur-lille-renover/</loc>
+    <lastmod>2024-08-09T20:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/10-travaux-peinture/</loc>
+    <lastmod>2024-02-28T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/1-renover-sdb-lille/</loc>
+    <lastmod>2023-11-21T20:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/footer/cgp/</loc>
+    <lastmod>2023-11-20T21:50:35Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/contact/</loc>
+    <lastmod>2023-11-20T21:50:35Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/footer/rgpd/</loc>
+    <lastmod>2023-11-20T21:50:35Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/realisations-particuliers/</loc>
+    <lastmod>2023-11-20T20:39:29Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/realisations-professionnels/</loc>
+    <lastmod>2023-11-20T20:39:29Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/prestations-professionnels/</loc>
+    <lastmod>2023-11-20T20:09:54Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/2-idees-cadeaux-lille-metropole-lilloise/</loc>
+    <lastmod>2023-11-20T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/prestation-particulier/</loc>
+    <lastmod>2023-11-20T13:03:30Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/mes-adresses-deco/</loc>
+    <lastmod>2023-11-20T11:07:22Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/decoratrice-interieur-lille/</loc>
+    <lastmod>2023-11-19T15:50:11Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/3-tendances-deco/</loc>
+    <lastmod>2023-11-19T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/4-decorer-un-airbnb-lille/</loc>
+    <lastmod>2023-11-18T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/5-bien-etre/</loc>
+    <lastmod>2023-11-17T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/6-travaux-nord-pour-chaque-saison/</loc>
+    <lastmod>2023-11-16T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/7-avant-apres-maison-ronchin/</loc>
+    <lastmod>2023-11-15T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/8-conseil-maison/</loc>
+    <lastmod>2023-11-14T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://interieurdeco.fr/blog/9-astuces-bureau-decoratrice-interieur-lille/</loc>
+    <lastmod>2023-11-13T14:35:55Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+</urlset>

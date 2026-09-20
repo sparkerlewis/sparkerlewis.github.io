@@ -1,3 +1,13 @@
+# 301 redirects for renamed blog articles and pages
+RedirectMatch 301 ^/blog/1-renover-sdb/?$ https://interieurdeco.fr/blog/1-renover-sdb-lille/
+RedirectMatch 301 ^/blog/2-idee-cadeau/?$ https://interieurdeco.fr/blog/2-idees-cadeaux-lille-metropole-lilloise/
+RedirectMatch 301 ^/blog/4-investissement-locatif/?$ https://interieurdeco.fr/blog/4-decorer-un-airbnb-lille/
+RedirectMatch 301 ^/blog/6-piece-a-vivre/?$ https://interieurdeco.fr/blog/6-travaux-nord-pour-chaque-saison/
+RedirectMatch 301 ^/blog/7-avant-apres/?$ https://interieurdeco.fr/blog/7-avant-apres-maison-ronchin/
+RedirectMatch 301 ^/blog/9-astuces-bureau/?$ https://interieurdeco.fr/blog/9-astuces-bureau-decoratrice-interieur-lille/
+RedirectMatch 301 ^/blog/11-pourquoi-architecte/?$ https://interieurdeco.fr/blog/11-pourquoi-architecte-interieur-lille-renover/
+RedirectMatch 301 ^/qui-suis-je/?$ https://interieurdeco.fr/decoratrice-interieur-lille/
+
 <IfModule mod_expires.c>
     ExpiresActive On
 
@@ -30,5 +40,10 @@
     # Set Cache-Control headers for HTML files
     <FilesMatch "\.(html)$">
         Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+
+    # Prevent indexing of RSS feeds
+    <FilesMatch "\.xml$">
+        Header set X-Robots-Tag "noindex, follow"
     </FilesMatch>
 </IfModule>

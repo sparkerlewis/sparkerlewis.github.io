@@ -22,27 +22,27 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/decoratrice-interieur-lille'
+url = '/decoratrice-interieur-lille/'
 title = "Qui suis-je ?"
 
 [[params.menu.main]]
-url = '/mes-adresses-deco'
+url = '/mes-adresses-deco/'
 title = "Mes adresses déco"
 
 [[params.menu.main]]
-url = '/prestation-particulier'
+url = '/prestation-particulier/'
 title = "Prestations particuliers"
 
 [[params.menu.main]]
-url = '/realisations-particuliers'
+url = '/realisations-particuliers/'
 title = "Réalisations particuliers"
 
 [[params.menu.main]]
-url = '/prestations-professionnels'
+url = '/prestations-professionnels/'
 title = "Prestations pro"
 
 [[params.menu.main]]
-url = '/realisations-professionnels'
+url = '/realisations-professionnels/'
 title = "Réalisations pro"
 
 [[params.menu.main]]
@@ -50,11 +50,11 @@ url = '/blog/'
 title = "Blog"
 
 [[params.menu.main]]
-url = '/contact'
+url = '/contact/'
 title = "Contact"
 
 [[params.menu.main]]
-url = '/footer/faq-decoratrice-interieur-lille'
+url = '/footer/faq-decoratrice-interieur-lille/'
 title = "FAQ"
 
 [taxonomies]
@@ -138,12 +138,12 @@ Découvrez comment je peux transformer vos espaces de la conception à la sélec
 
 
 [[params.cta.link]]
-href = "/decoratrice-interieur-lille"
+href = "/decoratrice-interieur-lille/"
 text = "Qui suis-je ?"
 special = true
 
 [[params.cta.link]]
-href = "/realisations-particuliers"
+href = "/realisations-particuliers/"
 text = "Réalisations"
 special = false
 
