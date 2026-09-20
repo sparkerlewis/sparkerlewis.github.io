@@ -1,6 +1,6 @@
 ---
-title: Mes adresses déco
-description: ""
+title: "Mes adresses déco à Lille : boutiques et bonnes adresses | Intérieur Déco"
+description: "Sélection d'adresses déco à Lille et dans la métropole lilloise : boutiques, showrooms et bonnes adresses pour trouver mobilier, textile et objets déco."
 date: 2023-11-20T11:07:22.136Z
 preview: ""
 draft: false

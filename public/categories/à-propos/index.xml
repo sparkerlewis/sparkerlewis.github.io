@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>À Propos on Architecte &amp; décoratrice d&#39;intérieur à Lille | Intérieur Déco</title>
+		<link>https://interieurdeco.fr/categories/%C3%A0-propos/</link>
+		<description>Recent content in À Propos on Architecte &amp; décoratrice d&#39;intérieur à Lille | Intérieur Déco</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 04 Apr 2026 15:30:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://interieurdeco.fr/categories/%C3%A0-propos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Foire Aux Questions</title>
+				<link>https://interieurdeco.fr/footer/faq-decoratrice-interieur-lille/</link>
+				<pubDate>Sat, 04 Apr 2026 15:30:00 +0000</pubDate>
+				<guid>https://interieurdeco.fr/footer/faq-decoratrice-interieur-lille/</guid>
+				<description>&lt;style&gt;&#xA;  .flex-container h2 {&#xA;    font-family: &#34;georgia&#34;;&#xA;    font-size: 20px;&#xA;    letter-spacing: 0.11em;&#xA;  }&#xA;&#xA;  .flex-container p {&#xA;    font-family: &#39;Glacial Indifference&#39;;&#xA;  }&#xA;&#xA;  .flex-container a {&#xA;    font-family: &#39;Glacial Indifference&#39;;&#xA;  }&#xA;&#xA;  .flex-container {&#xA;    display: flex;&#xA;    flex-wrap: wrap;&#xA;    margin-bottom: 5%;&#xA;  }&#xA;&#xA;  .flex-item {&#xA;    flex: 1;&#xA;    margin: 10px;&#xA;    max-width: 450px;&#xA;  }&#xA;&#xA;  .flex-item img {&#xA;    max-width: 100%;&#xA;    height: auto;  &#xA;    max-height: 300px;  &#xA;  }&#xA;&#xA;  @media (max-width: 767px) {&#xA;    .flex-item {&#xA;      flex: 1 0 100%;  &#xA;    }&#xA;    img {&#xA;        max-height: none;  &#xA;    }&#xA;    .flex-container {&#xA;        flex-direction: column;  &#xA;      }&#xA;&#xA;      .flex-item {&#xA;        margin-bottom: 20px;  &#xA;      }&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &#xA;&#xA;&lt;div id=&#34;pricing_div&#34;&gt; &lt;p style=&#34;text-align: justify;&#34;&gt;À Lille, chaque intérieur mérite d’être à la fois esthétique, fonctionnel et adapté à votre mode de vie. Manuela Faisca, décoratrice d’intérieur et architecte d’intérieur, vous accompagne dans tous vos projets de décoration et d’aménagement à Lille et dans toute la métropole lilloise.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

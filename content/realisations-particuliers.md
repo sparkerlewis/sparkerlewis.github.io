@@ -1,6 +1,6 @@
 ---
-title: Réalisations particuliers
-description: ""
+title: "Réalisations décoration d'intérieur à Lille | Intérieur Déco"
+description: "Découvrez mes réalisations en décoration d'intérieur pour particuliers à Lille : cuisine, salle de bain, salon, dressing. Des projets sur mesure dans la métropole lilloise."
 date: 2023-11-20T20:39:29.926Z
 preview: ""
 draft: false
@@ -43,10 +43,18 @@ categories: []
             <img  width="350" height="430" src="/images/realisations-particuliers/salle a manger terracotta Templemars.webp" alt="salle à manger terracotta Templemars">
         </a></br></br>
 
+        <a href="/images/realisations-particuliers/Rénovation cuisine Marcq en Baroeul.webp" data-lightbox="images" data-title="Rénovation cuisine Marcq en Baroeul">
+            <img  width="350" height="430" src="/images/realisations-particuliers/Rénovation cuisine Marcq en Baroeul.webp" alt="Rénovation cuisine Marcq en Baroeul">
+        </a></br></br>
+
     </div>
   </div>
   <div style="flex: 1; margin: 10px; max-width: 450px;">
     <div>
+        <a href="/images/realisations-particuliers/Transformation salle de bain Lambersart.webp" data-lightbox="images" data-title="Transformation salle de bain Lambersart">
+            <img  width="350" height="430" src="/images/realisations-particuliers/Transformation salle de bain Lambersart.webp" alt="Transformation salle de bain Lambersart">
+        </a></br></br>
+
         <a href="/images/realisations-particuliers/salle de bain vintage la madeleine.webp" data-lightbox="images" data-title="salle de bain vintage la madeleine">
             <img  width="350" height="430" src="/images/realisations-particuliers/salle de bain vintage la madeleine.webp" alt="salle de bain vintage la madeleine">
         </a></br></br>

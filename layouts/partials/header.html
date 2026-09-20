@@ -56,21 +56,17 @@
     {{ else }}
     <meta property="og:image" content="https://interieurdeco.fr/images/logo.jpg">
     {{ end }}
-    {{ with .Description }}
-    <meta property="og:description" content="{{ . | plainify }}">
-    {{ else }}
-    <meta property="og:description"
-        content="Architecte d'intérieur basé sur Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget">
-    {{ end }}
-    <meta property="og:url" content="{{ .Permalink }}">
 
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProfessionalService",
+      "@id": "https://interieurdeco.fr/#business",
       "name": "Intérieur Déco",
       "description": "Architecte d'intérieur et décoratrice à Lille, je transforme votre espace selon vos envies et contraintes en proposant des solutions personnalisées adaptées à votre budget.",
       "url": "https://interieurdeco.fr",
+      "image": "https://interieurdeco.fr/images/banner.jpg",
+      "priceRange": "€€",
       "telephone": "+33674602706",
       "email": "contact@interieurdeco.fr",
       "address": {
@@ -79,11 +75,20 @@
         "addressRegion": "Hauts-de-France",
         "addressCountry": "FR"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 50.6292,
+        "longitude": 3.0573
+      },
       "areaServed": "Lille, Métropole Lilloise, Nord, Hauts-de-France",
       "founder": {
         "@type": "Person",
         "name": "Manuela Faisca"
-      }
+      },
+      "sameAs": [
+        "https://www.facebook.com/profile.php?id=100063743910973",
+        "https://www.instagram.com/interieurdeco/"
+      ]
     }
     </script>
 
@@ -221,7 +226,7 @@
 
     <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
     <script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js"
-        charset="UTF-8"></script>
+        charset="UTF-8" async></script>
     <script type="text/javascript" charset="UTF-8">
         document.addEventListener('DOMContentLoaded', function () {
             cookieconsent.run({ "notice_banner_type": "simple", "consent_type": "express", "palette": "light", "language": "fr", "page_load_consent_levels": ["strictly-necessary"], "notice_banner_reject_button_hide": false, "preferences_center_close_button_hide": false, "page_refresh_confirmation_buttons": false });
@@ -246,7 +251,7 @@
 
         <!-- Header -->
         <header id="header" {{ if .Page.IsHome }} class="alt" {{ end }}>
-            <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Params.backToHome.title }}</a></h1>
+            <span class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.backToHome.title }}</a></span>
             <nav id="nav">
                 <ul>
                     <li class="special">

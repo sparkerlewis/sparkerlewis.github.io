@@ -1,6 +1,6 @@
 ---
-title: Prestations professionnels
-description: ""
+title: "Prestations décoration d'intérieur pour professionnels à Lille | Intérieur Déco"
+description: "Prestations de décoration d'intérieur pour professionnels à Lille : aménagement de bureaux, locaux commerciaux et espaces d'accueil. Devis personnalisé dans le Nord."
 date: 2023-11-20T20:09:54.617Z
 preview: ""
 draft: false

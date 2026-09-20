@@ -2,20 +2,20 @@
 
 {{ partial "stylesheets_custom.html" . }}
 
-{{ partial "banner_custom.html" . }}
+<link rel="stylesheet" href="{{ (resources.Get "css/homepage.css" | minify | fingerprint "sha512").RelPermalink }}">
 
-{{ partial "question_contactez_moi.html" . }}
+{{ partial "home_hero.html" . }}
 
-{{ partial "ma_mission_photo.html" . }}
+{{ partial "home_intro.html" . }}
 
-{{ partial "video_manue.html" . }}
+{{ partial "home_services.html" . }}
 
-{{ partial "three.html" . }}
+{{ partial "home_realisations.html" . }}
 
-{{ partial "cta.html" . }}
+{{ partial "home_about.html" . }}
 
-{{ partial "confidence.html" . }}
+{{ partial "home_testimonial.html" . }}
 
-{{ partial "contact" . }}
+{{ partial "home_contact.html" . }}
 
 {{ partial "footer_custom.html" . }}

@@ -1,5 +1,5 @@
 ---
-title: Réalisations professionnels
+title: "Réalisations professionnels : aménagement d'espaces à Lille | Intérieur Déco"
 description: "Découvrez mes réalisations en décoration d'intérieur pour professionnels à Lille : aménagement de bureaux, locaux commerciaux et espaces d'accueil."
 date: 2023-11-20T20:39:29.926Z
 preview: ""

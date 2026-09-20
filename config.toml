@@ -1,5 +1,5 @@
 baseURL = "https://interieurdeco.fr/"
-title = "Architecte, designer et décoratrice d’intérieur Lille : Conseil professionnel en décoration d’intérieur dans le Nord"
+title = "Architecte & décoratrice d'intérieur à Lille | Intérieur Déco"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
@@ -64,8 +64,8 @@ title = "FAQ"
 
 [params.one]
 enable = true
-title = 'Besoin d’un conseil professionnel en décoration d’intérieur dans le Nord ou ailleurs ?'
-title2 = ' Un projet de rénovation ? '
+title = "Vous avez un projet de rénovation ? Besoin d'optimiser votre espace ?"
+title2 = "De conseil en décoration d'intérieur à Lille et ses environs ?"
 body = '''
 Transformez votre intérieur avec Intérieur Déco, votre décoratrice d’intérieur à Lille. Spécialiste de la conception, de l’aménagement et de la décoration d’espaces, j’imagine pour vous des ambiances uniques, chaleureuses et parfaitement adaptées à votre mode de vie.
 

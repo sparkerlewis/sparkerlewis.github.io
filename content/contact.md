@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: ""
+description: "Contactez Manuela Faisca, architecte d'intérieur et décoratrice à Lille. Par téléphone, email ou en visio — intervention dans toute la métropole lilloise et à distance."
 date: 2023-11-20T21:50:35.956Z
 preview: ""
 draft: false
@@ -38,9 +38,7 @@ categories:
 </div>
 
 <div style="text-align: center;">
-  <a href="https://maps.google.com/maps?ll=50.601929,3.088904&z=19&hl=en-US&gl=US&mapclient=apiv3&cid=10009223994750912151" target="_blank">
-    <img style="max-width: 60%; height: auto;" src="/images/map.png" alt="mon-adresse">
-  </a>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2532.3505015745054!2d3.0888372999999993!3d50.60202429999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d5774bb3d02b%3A0x8ae7e8312c71c697!2zSW50w6lyaWV1ciBEw6ljbw!5e0!3m2!1sfr!2sfr!4v1789920163933!5m2!1sfr!2sfr" width="600" height="450" style="border:0; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
 {{< /simple_html >}}

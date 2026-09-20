@@ -254,13 +254,12 @@ blockquote {
 }
 
 .features li:before {
-    color: #ffffff;
+    color: #bf9325;
 }
 
 .wrapper.style3 {
-    /* background-color: #6D6354; */
-    background-color: #eecab2;
-    color: #ffffff;
+    background-color: #ede0d0;
+    color: #4E4852;
 }
 
 .wrapper.style4 h2 {
@@ -271,6 +270,25 @@ blockquote {
 
 .wrapper.style4 p {
     font-family: 'Glacial Indifference';
+}
+
+#header .site-title {
+    -moz-transition: opacity 0.2s ease;
+    -webkit-transition: opacity 0.2s ease;
+    -ms-transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease;
+    height: inherit;
+    left: 1.25em;
+    line-height: inherit;
+    position: absolute;
+    top: 0;
+}
+
+#header .site-title a {
+    border: 0;
+    display: block;
+    height: inherit;
+    line-height: inherit;
 }
 
 #menu {
@@ -398,7 +416,7 @@ h6 {
 }
 
 .wrapper.style2 {
-    background-color: #f3e8d9;
+    background-color: #ffffff;
 }
 
 #banner:after {
@@ -466,4 +484,62 @@ h6 {
     font-family: "georgia";
     font-size: 20px;
     letter-spacing: 0.11em;
+}
+
+#mes_services {
+    background-color: #f3e8d9;
+    color: #242424;
+    text-align: center;
+}
+
+#mes_services h2 {
+    font-family: "georgia";
+    font-size: 20px;
+    letter-spacing: 0.11em;
+    color: #242424;
+}
+
+#mes_services .services-list {
+    font-family: 'Glacial Indifference';
+    list-style: disc;
+    padding: 0;
+    display: inline-block;
+    text-align: left;
+}
+
+#mes_services .services-list li {
+    margin-bottom: 0.8em;
+    line-height: 1.5;
+}
+
+#mes_services .services-list li:before {
+    color: #bf9325;
+}
+
+#video_manue_txt {
+    background-color: #f3e8d9;
+}
+
+#cta {
+    background-color: #ffffff;
+    color: #4E4852;
+}
+
+#cta h2 {
+    color: #242424;
+}
+
+#confidence {
+    background-color: #f3e8d9;
+}
+
+#three h2,
+#three h3,
+#three h4 {
+    color: #242424;
+}
+
+#three strong,
+#three b {
+    color: #242424;
 }
